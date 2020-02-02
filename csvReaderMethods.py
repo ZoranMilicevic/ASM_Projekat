@@ -85,7 +85,8 @@ class CVSReaderMethods:
                         authorName = author[0] + ' ' + author[1][0] + '.'
                         journalAuthors.append(authorName)
                 
-                publications[row[6]] = (row[2], journalAuthors, row[4], row[5])  #dictionary -> journalName : (date-authors-citations-type)
+                if row[6] != ' ' and row[6] != '':
+                    publications[row[6]] = (row[2], journalAuthors, row[4], row[5])  #dictionary -> journalName : (date-authors-citations-type)
         return publications
 
 

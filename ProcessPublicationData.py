@@ -3,15 +3,15 @@ from csvReaderMethods import CVSReaderMethods
 import matplotlib.pyplot as plt
 
 class ProcessPublicationDataMethods:
+    GrapthOutputPath = r'output/publicationGraph.gexf'
 
     @staticmethod
     def createGraph():
         graph = nx.Graph()
         publicataions = CVSReaderMethods.readPublicationsFromFile()
         ProcessPublicationDataMethods.addNodesToGraph(graph, publicataions)
-        authorAndHisJournals = ProcessPublicationDataMethods.creatMapOfAuthorsAndJournals(publicataions)
         journalAndHisAuthors = ProcessPublicationDataMethods.createMapOfJurnalAndAuthors(publicataions)
-        ProcessPublicationDataMethods.addEdgesToGraph(graph, authorAndHisJournals, journalAndHisAuthors)
+        ProcessPublicationDataMethods.addEdgesToGraph(graph, journalAndHisAuthors)
         return graph
     
     @staticmethod
@@ -19,16 +19,6 @@ class ProcessPublicationDataMethods:
         for key in publications:
             graph.add_node(key)
 
-    @staticmethod
-    def creatMapOfAuthorsAndJournals(publications):
-        authorAndHisJournals = dict() #dictionary -> authorName: journals
-        for key in publications:
-            for author in publications[key][1]:
-                if author in authorAndHisJournals:
-                    authorAndHisJournals[author].append(key)
-                else:
-                    authorAndHisJournals[author] = [key]
-        return authorAndHisJournals
     
     @staticmethod
     def createMapOfJurnalAndAuthors(publications):
@@ -42,5 +32,29 @@ class ProcessPublicationDataMethods:
         return journalAndHisAuthors          
     
     @staticmethod
-    def addEdgesToGraph(graph, authorAndHisJournals, journalAndHisAuthors):
+    def addEdgesToGraph(graph, journalAndHisAuthors):
+        journals = list(journalAndHisAuthors.keys())
+        length = len(journals)
+        i = 0
+        while i < length-1:
+            journal1 = journals[i]
+            authors1 = journalAndHisAuthors[journal1] 
+            j = i + 1
+            while j < length:
+                journal2 = journals[j]
+                authors2 = journalAndHisAuthors[journal2]
+                intersection = list(set(authors1) & set(authors2))
+                numberOfAuthorsThatPublishedInBothJournals = len(intersection)
+                if numberOfAuthorsThatPublishedInBothJournals > 0:
+                    if graph.has_edge(journal1, journal2):
+                        graph[journal1][journal2]['weight'] += numberOfAuthorsThatPublishedInBothJournals
+                    else:
+                        graph.add_edge(journal1, journal2, weight=numberOfAuthorsThatPublishedInBothJournals)
+                j = j + 1
+            i = i + 1
+        return graph
+
+    @staticmethod
+    def printGraph(graph):
+        nx.write_gexf(graph, ProcessPublicationDataMethods.GrapthOutputPath)
         pass

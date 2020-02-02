@@ -2,7 +2,7 @@ import networkx as nx
 from csvReaderMethods import CVSReaderMethods
 
 class ProcessAuthorDataMethods:
-    GrapthOutputPath = 'output/authorGraph.gexf'
+    GrapthOutputPath = r'output/authorGraph.gexf'
 
     @staticmethod
     def createGraph():
@@ -24,7 +24,7 @@ class ProcessAuthorDataMethods:
             if faculty == 'fakultet organizacionih nauka':
                 fact = 'fon'
             graph.add_node(key, faculty = fact)
-        pass
+        return graph
 
     @staticmethod
     def addEdgesToGraph(graph):
@@ -43,9 +43,11 @@ class ProcessAuthorDataMethods:
                         graph.add_edge(author1, author2, weight=1)
                     j = j + 1
                 i = i + 1
+        return graph
 
     @staticmethod
     def printGraph(graph):
         nx.write_gexf(graph, ProcessAuthorDataMethods.GrapthOutputPath)
+        pass
      
 
