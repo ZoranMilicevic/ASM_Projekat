@@ -1,0 +1,818 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2020-02-02">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="faculty" type="string" />
+    </attributes>
+    <nodes>
+      <node id="janicic p." label="janicic p.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="pavlovic lazetic g." label="pavlovic lazetic g.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="zivkovic m." label="zivkovic m.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="filipovic v." label="filipovic v.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="malkov s." label="malkov s.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="maric f." label="maric f.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="maric m." label="maric m.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="mitic n." label="mitic n.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="bankovic m." label="bankovic m.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="graovac j." label="graovac j.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="kartelj a." label="kartelj a.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="kovacevic j." label="kovacevic j.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="marinkovic v." label="marinkovic v.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="nikolic m." label="nikolic m.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="vujosevic janicic m." label="vujosevic janicic m.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="stojanovic djurdjevic s." label="stojanovic djurdjevic s.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="vujicic stankovic s." label="vujicic stankovic s.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="miskovic s." label="miskovic s.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="simic d." label="simic d.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="hadzi puric j." label="hadzi puric j.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="cukic i." label="cukic i.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="kocic o." label="kocic o.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="maljkovic m." label="maljkovic m.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="radojicic n." label="radojicic n.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="kocic a." label="kocic a.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="spasic a." label="spasic a.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="spasic m." label="spasic m.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="stojanovic b." label="stojanovic b.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="tanasijevic i." label="tanasijevic i.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="zecevic a." label="zecevic a.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="veljkovic a." label="veljkovic a.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="kuzmanovic v." label="kuzmanovic v.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="solajic m." label="solajic m.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="bukurov a." label="bukurov a.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="micovic n." label="micovic n.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="milev n." label="milev n.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="parovic m." label="parovic m.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="selakovic m." label="selakovic m.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="simic n." label="simic n.">
+        <attvalues>
+          <attvalue for="0" value="matf" />
+        </attvalues>
+      </node>
+      <node id="nikolic b." label="nikolic b.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="milicev d." label="milicev d.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="jovanovic z." label="jovanovic z.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="protic j." label="protic j.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="tomasevic m." label="tomasevic m.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="bojovic m." label="bojovic m.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="vranes s." label="vranes s.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="bojic d." label="bojic d.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="radivojevic z." label="radivojevic z.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="tartalja i." label="tartalja i.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="cvetanovic m." label="cvetanovic m.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="djurdjevic d." label="djurdjevic d.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="stanisavljevic z." label="stanisavljevic z.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="punt m." label="punt m.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="misic m." label="misic m.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="vuletic p." label="vuletic p.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="stojanovic s." label="stojanovic s.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="gajin s." label="gajin s.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="draskovic d." label="draskovic d.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="sustran z." label="sustran z.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="milenkovic k." label="milenkovic k.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="vukasovic m." label="vukasovic m.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="prodanov m." label="prodanov m.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="delcev s." label="delcev s.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="tubic s." label="tubic s.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="hadzic f." label="hadzic f.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="jocovic v." label="jocovic v.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="miladinovic d." label="miladinovic d.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="milovancevic d." label="milovancevic d.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="cincovic j." label="cincovic j.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="djukic j." label="djukic j.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="ziza k." label="ziza k.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="micovic m." label="micovic m.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="sekularac t." label="sekularac t.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="radenkovic u." label="radenkovic u.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="lazic a." label="lazic a.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="kojic n." label="kojic n.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="korolija n." label="korolija n.">
+        <attvalues>
+          <attvalue for="0" value="etf" />
+        </attvalues>
+      </node>
+      <node id="anicic n." label="anicic n.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="vlajic s." label="vlajic s.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="devedzic v." label="devedzic v.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="djuric d." label="djuric d.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="jovanovic j." label="jovanovic j.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="marjanovic z." label="marjanovic z.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="starcevic d." label="starcevic d.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="babarogic s." label="babarogic s.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="vuckovic m." label="vuckovic m.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="lazarevic s." label="lazarevic s.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="markovic v." label="markovic v.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="minovic m." label="minovic m.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="neskovic s." label="neskovic s.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="antovic i." label="antovic i.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="jovanovic milenkovic m." label="jovanovic milenkovic m.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="milic m." label="milic m.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="milovanovic m." label="milovanovic m.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="pantelic o." label="pantelic o.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="petrovic m." label="petrovic m.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="savic d." label="savic d.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="tomic b." label="tomic b.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="turajlic n." label="turajlic n.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="sevarac z." label="sevarac z.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="bjeladinovic s." label="bjeladinovic s.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="bogicevic sretenovic m." label="bogicevic sretenovic m.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="milenkovic i." label="milenkovic i.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="milikic n." label="milikic n.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="milovanovic e." label="milovanovic e.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="pajic a." label="pajic a.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="stojimirovic d." label="stojimirovic d.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="sosevic u." label="sosevic u.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="zlatkovic m." label="zlatkovic m.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="ljubenovic j." label="ljubenovic j.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="marjanovic m." label="marjanovic m.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="marceta b." label="marceta b.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="pejanovic a." label="pejanovic a.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="prokic s." label="prokic s.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="stojanovic t." label="stojanovic t.">
+        <attvalues>
+          <attvalue for="0" value="fon" />
+        </attvalues>
+      </node>
+      <node id="vujosevic j." label="vujosevic j." />
+      <node id="pavlovic l." label="pavlovic l." />
+      <node id="vujicic s." label="vujicic s." />
+    </nodes>
+    <edges>
+      <edge source="janicic p." target="marinkovic v." id="0" weight="6" />
+      <edge source="janicic p." target="maric f." id="1" weight="16" />
+      <edge source="janicic p." target="stojanovic s." id="2" weight="2" />
+      <edge source="janicic p." target="nikolic m." id="3" weight="8" />
+      <edge source="janicic p." target="vujosevic j." id="4" weight="2" />
+      <edge source="zivkovic m." target="malkov s." id="5" weight="9" />
+      <edge source="zivkovic m." target="maric f." id="6" weight="2" />
+      <edge source="zivkovic m." target="vujosevic j." id="7" weight="3" />
+      <edge source="zivkovic m." target="nikolic b." id="8" weight="2" />
+      <edge source="filipovic v." target="kartelj a." id="9" weight="5" />
+      <edge source="filipovic v." target="mitic n." id="10" weight="3" />
+      <edge source="filipovic v." target="maric m." id="11" weight="2" />
+      <edge source="malkov s." target="mitic n." id="12" weight="10" />
+      <edge source="malkov s." target="kovacevic j." id="13" weight="8" />
+      <edge source="malkov s." target="pavlovic l." id="14" weight="8" />
+      <edge source="malkov s." target="vujosevic j." id="15" weight="3" />
+      <edge source="maric f." target="nikolic m." id="16" weight="6" />
+      <edge source="maric f." target="spasic m." id="17" weight="1" />
+      <edge source="maric f." target="vujosevic j." id="18" weight="2" />
+      <edge source="maric f." target="maric m." id="19" weight="4" />
+      <edge source="maric m." target="radojicic n." id="20" weight="8" />
+      <edge source="maric m." target="stojanovic s." id="21" weight="1" />
+      <edge source="mitic n." target="kovacevic j." id="22" weight="8" />
+      <edge source="mitic n." target="pavlovic l." id="23" weight="16" />
+      <edge source="mitic n." target="kartelj a." id="24" weight="3" />
+      <edge source="graovac j." target="kovacevic j." id="25" weight="3" />
+      <edge source="graovac j." target="pavlovic l." id="26" weight="5" />
+      <edge source="kovacevic j." target="pavlovic l." id="27" weight="11" />
+      <edge source="nikolic m." target="vujosevic j." id="28" weight="2" />
+      <edge source="nikolic m." target="milicev d." id="29" weight="4" />
+      <edge source="nikolic m." target="protic j." id="30" weight="4" />
+      <edge source="nikolic m." target="tartalja i." id="31" weight="4" />
+      <edge source="nikolic m." target="tomasevic m." id="32" weight="4" />
+      <edge source="simic d." target="savic d." id="33" weight="4" />
+      <edge source="simic d." target="vlajic s." id="34" weight="3" />
+      <edge source="simic d." target="milenkovic i." id="35" weight="2" />
+      <edge source="simic d." target="milovanovic m." id="36" weight="7" />
+      <edge source="simic d." target="minovic m." id="37" weight="4" />
+      <edge source="simic d." target="starcevic d." id="38" weight="11" />
+      <edge source="spasic m." target="vranes s." id="39" weight="2" />
+      <edge source="tanasijevic i." target="pavlovic l." id="40" weight="1" />
+      <edge source="nikolic b." target="draskovic d." id="41" weight="11" />
+      <edge source="nikolic b." target="delcev s." id="42" weight="3" />
+      <edge source="nikolic b." target="vukasovic m." id="43" weight="3" />
+      <edge source="nikolic b." target="bojic d." id="44" weight="15" />
+      <edge source="nikolic b." target="bojovic m." id="45" weight="15" />
+      <edge source="nikolic b." target="cvetanovic m." id="46" weight="15" />
+      <edge source="nikolic b." target="gajin s." id="47" weight="15" />
+      <edge source="nikolic b." target="jovanovic z." id="48" weight="15" />
+      <edge source="nikolic b." target="milicev d." id="49" weight="15" />
+      <edge source="nikolic b." target="protic j." id="50" weight="15" />
+      <edge source="nikolic b." target="punt m." id="51" weight="15" />
+      <edge source="nikolic b." target="radivojevic z." id="52" weight="17" />
+      <edge source="nikolic b." target="stanisavljevic z." id="53" weight="24" />
+      <edge source="nikolic b." target="stojanovic s." id="54" weight="15" />
+      <edge source="nikolic b." target="tartalja i." id="55" weight="18" />
+      <edge source="nikolic b." target="tomasevic m." id="56" weight="15" />
+      <edge source="nikolic b." target="vuletic p." id="57" weight="15" />
+      <edge source="milicev d." target="bojic d." id="58" weight="15" />
+      <edge source="milicev d." target="bojovic m." id="59" weight="15" />
+      <edge source="milicev d." target="cvetanovic m." id="60" weight="15" />
+      <edge source="milicev d." target="gajin s." id="61" weight="15" />
+      <edge source="milicev d." target="jovanovic z." id="62" weight="25" />
+      <edge source="milicev d." target="protic j." id="63" weight="19" />
+      <edge source="milicev d." target="punt m." id="64" weight="15" />
+      <edge source="milicev d." target="radivojevic z." id="65" weight="15" />
+      <edge source="milicev d." target="stanisavljevic z." id="66" weight="15" />
+      <edge source="milicev d." target="stojanovic s." id="67" weight="15" />
+      <edge source="milicev d." target="tartalja i." id="68" weight="19" />
+      <edge source="milicev d." target="tomasevic m." id="69" weight="19" />
+      <edge source="milicev d." target="vuletic p." id="70" weight="15" />
+      <edge source="milicev d." target="kojic n." id="71" weight="4" />
+      <edge source="jovanovic z." target="bojic d." id="72" weight="15" />
+      <edge source="jovanovic z." target="bojovic m." id="73" weight="15" />
+      <edge source="jovanovic z." target="cvetanovic m." id="74" weight="18" />
+      <edge source="jovanovic z." target="gajin s." id="75" weight="21" />
+      <edge source="jovanovic z." target="protic j." id="76" weight="15" />
+      <edge source="jovanovic z." target="punt m." id="77" weight="15" />
+      <edge source="jovanovic z." target="radivojevic z." id="78" weight="18" />
+      <edge source="jovanovic z." target="stanisavljevic z." id="79" weight="18" />
+      <edge source="jovanovic z." target="stojanovic s." id="80" weight="15" />
+      <edge source="jovanovic z." target="tartalja i." id="81" weight="15" />
+      <edge source="jovanovic z." target="tomasevic m." id="82" weight="15" />
+      <edge source="jovanovic z." target="vuletic p." id="83" weight="18" />
+      <edge source="jovanovic z." target="starcevic d." id="84" weight="14" />
+      <edge source="protic j." target="bojic d." id="85" weight="24" />
+      <edge source="protic j." target="bojovic m." id="86" weight="15" />
+      <edge source="protic j." target="cvetanovic m." id="87" weight="18" />
+      <edge source="protic j." target="gajin s." id="88" weight="15" />
+      <edge source="protic j." target="punt m." id="89" weight="15" />
+      <edge source="protic j." target="radivojevic z." id="90" weight="18" />
+      <edge source="protic j." target="stanisavljevic z." id="91" weight="15" />
+      <edge source="protic j." target="stojanovic s." id="92" weight="15" />
+      <edge source="protic j." target="tartalja i." id="93" weight="37" />
+      <edge source="protic j." target="tomasevic m." id="94" weight="30" />
+      <edge source="protic j." target="vuletic p." id="95" weight="17" />
+      <edge source="protic j." target="misic m." id="96" weight="12" />
+      <edge source="tomasevic m." target="bojic d." id="97" weight="17" />
+      <edge source="tomasevic m." target="bojovic m." id="98" weight="21" />
+      <edge source="tomasevic m." target="cvetanovic m." id="99" weight="15" />
+      <edge source="tomasevic m." target="gajin s." id="100" weight="15" />
+      <edge source="tomasevic m." target="punt m." id="101" weight="19" />
+      <edge source="tomasevic m." target="radivojevic z." id="102" weight="15" />
+      <edge source="tomasevic m." target="stanisavljevic z." id="103" weight="15" />
+      <edge source="tomasevic m." target="stojanovic s." id="104" weight="15" />
+      <edge source="tomasevic m." target="tartalja i." id="105" weight="22" />
+      <edge source="tomasevic m." target="vuletic p." id="106" weight="15" />
+      <edge source="tomasevic m." target="misic m." id="107" weight="20" />
+      <edge source="bojovic m." target="bojic d." id="108" weight="25" />
+      <edge source="bojovic m." target="cvetanovic m." id="109" weight="21" />
+      <edge source="bojovic m." target="gajin s." id="110" weight="15" />
+      <edge source="bojovic m." target="punt m." id="111" weight="15" />
+      <edge source="bojovic m." target="radivojevic z." id="112" weight="20" />
+      <edge source="bojovic m." target="stanisavljevic z." id="113" weight="15" />
+      <edge source="bojovic m." target="stojanovic s." id="114" weight="21" />
+      <edge source="bojovic m." target="tartalja i." id="115" weight="15" />
+      <edge source="bojovic m." target="vuletic p." id="116" weight="15" />
+      <edge source="bojovic m." target="korolija n." id="117" weight="3" />
+      <edge source="vranes s." target="jovanovic j." id="118" weight="4" />
+      <edge source="bojic d." target="cvetanovic m." id="119" weight="15" />
+      <edge source="bojic d." target="gajin s." id="120" weight="15" />
+      <edge source="bojic d." target="punt m." id="121" weight="15" />
+      <edge source="bojic d." target="radivojevic z." id="122" weight="15" />
+      <edge source="bojic d." target="stanisavljevic z." id="123" weight="15" />
+      <edge source="bojic d." target="stojanovic s." id="124" weight="23" />
+      <edge source="bojic d." target="tartalja i." id="125" weight="26" />
+      <edge source="bojic d." target="vuletic p." id="126" weight="15" />
+      <edge source="bojic d." target="korolija n." id="127" weight="8" />
+      <edge source="radivojevic z." target="cvetanovic m." id="128" weight="48" />
+      <edge source="radivojevic z." target="gajin s." id="129" weight="15" />
+      <edge source="radivojevic z." target="punt m." id="130" weight="23" />
+      <edge source="radivojevic z." target="stanisavljevic z." id="131" weight="18" />
+      <edge source="radivojevic z." target="stojanovic s." id="132" weight="29" />
+      <edge source="radivojevic z." target="tartalja i." id="133" weight="15" />
+      <edge source="radivojevic z." target="vuletic p." id="134" weight="15" />
+      <edge source="radivojevic z." target="korolija n." id="135" weight="5" />
+      <edge source="tartalja i." target="cvetanovic m." id="136" weight="15" />
+      <edge source="tartalja i." target="gajin s." id="137" weight="15" />
+      <edge source="tartalja i." target="punt m." id="138" weight="15" />
+      <edge source="tartalja i." target="stanisavljevic z." id="139" weight="18" />
+      <edge source="tartalja i." target="stojanovic s." id="140" weight="15" />
+      <edge source="tartalja i." target="vuletic p." id="141" weight="15" />
+      <edge source="cvetanovic m." target="gajin s." id="142" weight="15" />
+      <edge source="cvetanovic m." target="punt m." id="143" weight="20" />
+      <edge source="cvetanovic m." target="stanisavljevic z." id="144" weight="15" />
+      <edge source="cvetanovic m." target="stojanovic s." id="145" weight="29" />
+      <edge source="cvetanovic m." target="vuletic p." id="146" weight="15" />
+      <edge source="cvetanovic m." target="korolija n." id="147" weight="8" />
+      <edge source="stanisavljevic z." target="gajin s." id="148" weight="15" />
+      <edge source="stanisavljevic z." target="punt m." id="149" weight="18" />
+      <edge source="stanisavljevic z." target="stojanovic s." id="150" weight="15" />
+      <edge source="stanisavljevic z." target="vuletic p." id="151" weight="20" />
+      <edge source="stanisavljevic z." target="vukasovic m." id="152" weight="2" />
+      <edge source="stanisavljevic z." target="milenkovic k." id="153" weight="1" />
+      <edge source="stanisavljevic z." target="draskovic d." id="154" weight="6" />
+      <edge source="stanisavljevic z." target="misic m." id="155" weight="6" />
+      <edge source="punt m." target="gajin s." id="156" weight="15" />
+      <edge source="punt m." target="stojanovic s." id="157" weight="20" />
+      <edge source="punt m." target="vuletic p." id="158" weight="15" />
+      <edge source="punt m." target="korolija n." id="159" weight="5" />
+      <edge source="misic m." target="draskovic d." id="160" weight="9" />
+      <edge source="misic m." target="vujicic s." id="161" weight="3" />
+      <edge source="vuletic p." target="gajin s." id="162" weight="15" />
+      <edge source="vuletic p." target="stojanovic s." id="163" weight="15" />
+      <edge source="stojanovic s." target="gajin s." id="164" weight="15" />
+      <edge source="stojanovic s." target="korolija n." id="165" weight="5" />
+      <edge source="stojanovic s." target="sustran z." id="166" weight="2" />
+      <edge source="draskovic d." target="vujicic s." id="167" weight="3" />
+      <edge source="draskovic d." target="delcev s." id="168" weight="3" />
+      <edge source="draskovic d." target="vukasovic m." id="169" weight="3" />
+      <edge source="vukasovic m." target="delcev s." id="170" weight="3" />
+      <edge source="anicic n." target="petrovic m." id="171" weight="6" />
+      <edge source="anicic n." target="vuckovic m." id="172" weight="12" />
+      <edge source="anicic n." target="turajlic n." id="173" weight="6" />
+      <edge source="anicic n." target="babarogic s." id="174" weight="10" />
+      <edge source="anicic n." target="marjanovic z." id="175" weight="12" />
+      <edge source="anicic n." target="neskovic s." id="176" weight="6" />
+      <edge source="vlajic s." target="milic m." id="177" weight="40" />
+      <edge source="vlajic s." target="antovic i." id="178" weight="41" />
+      <edge source="vlajic s." target="savic d." id="179" weight="46" />
+      <edge source="vlajic s." target="lazarevic s." id="180" weight="30" />
+      <edge source="devedzic v." target="milikic n." id="181" weight="13" />
+      <edge source="devedzic v." target="jovanovic j." id="182" weight="79" />
+      <edge source="devedzic v." target="tomic b." id="183" weight="13" />
+      <edge source="devedzic v." target="sevarac z." id="184" weight="16" />
+      <edge source="devedzic v." target="djuric d." id="185" weight="39" />
+      <edge source="djuric d." target="jovanovic j." id="186" weight="3" />
+      <edge source="jovanovic j." target="milikic n." id="187" weight="25" />
+      <edge source="jovanovic j." target="tomic b." id="188" weight="13" />
+      <edge source="jovanovic j." target="sevarac z." id="189" weight="16" />
+      <edge source="marjanovic z." target="petrovic m." id="190" weight="14" />
+      <edge source="marjanovic z." target="vuckovic m." id="191" weight="14" />
+      <edge source="marjanovic z." target="turajlic n." id="192" weight="14" />
+      <edge source="marjanovic z." target="babarogic s." id="193" weight="6" />
+      <edge source="marjanovic z." target="bjeladinovic s." id="194" weight="2" />
+      <edge source="starcevic d." target="milovanovic m." id="195" weight="58" />
+      <edge source="starcevic d." target="minovic m." id="196" weight="63" />
+      <edge source="starcevic d." target="milenkovic i." id="197" weight="7" />
+      <edge source="babarogic s." target="petrovic m." id="198" weight="6" />
+      <edge source="babarogic s." target="vuckovic m." id="199" weight="6" />
+      <edge source="babarogic s." target="turajlic n." id="200" weight="6" />
+      <edge source="babarogic s." target="pantelic o." id="201" weight="2" />
+      <edge source="babarogic s." target="neskovic s." id="202" weight="2" />
+      <edge source="vuckovic m." target="petrovic m." id="203" weight="17" />
+      <edge source="vuckovic m." target="turajlic n." id="204" weight="17" />
+      <edge source="vuckovic m." target="neskovic s." id="205" weight="6" />
+      <edge source="lazarevic s." target="milic m." id="206" weight="30" />
+      <edge source="lazarevic s." target="antovic i." id="207" weight="30" />
+      <edge source="lazarevic s." target="savic d." id="208" weight="30" />
+      <edge source="markovic v." target="petrovic m." id="209" weight="3" />
+      <edge source="minovic m." target="milovanovic m." id="210" weight="94" />
+      <edge source="minovic m." target="milenkovic i." id="211" weight="11" />
+      <edge source="minovic m." target="sosevic u." id="212" weight="9" />
+      <edge source="neskovic s." target="turajlic n." id="213" weight="2" />
+      <edge source="antovic i." target="milic m." id="214" weight="38" />
+      <edge source="antovic i." target="savic d." id="215" weight="41" />
+      <edge source="milic m." target="savic d." id="216" weight="38" />
+      <edge source="milovanovic m." target="milenkovic i." id="217" weight="9" />
+      <edge source="milovanovic m." target="sosevic u." id="218" weight="11" />
+      <edge source="pantelic o." target="pajic a." id="219" weight="6" />
+      <edge source="petrovic m." target="turajlic n." id="220" weight="17" />
+      <edge source="tomic b." target="milikic n." id="221" weight="10" />
+      <edge source="tomic b." target="sevarac z." id="222" weight="10" />
+      <edge source="sevarac z." target="milikic n." id="223" weight="10" />
+      <edge source="milenkovic i." target="sosevic u." id="224" weight="8" />
+    </edges>
+  </graph>
+</gexf>
