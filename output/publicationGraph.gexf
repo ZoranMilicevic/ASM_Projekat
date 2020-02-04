@@ -1,454 +1,2233 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2020-02-02">
+  <meta lastmodifieddate="2020-02-04">
     <creator>NetworkX 2.4</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="publicationType" type="string" />
+    </attributes>
     <nodes>
-      <node id="Mathematics in Computer Science" label="Mathematics in Computer Science" />
-      <node id="Annals of Mathematics and Artificial Intelligence" label="Annals of Mathematics and Artificial Intelligence" />
-      <node id="Journal of Automated Reasoning" label="Journal of Automated Reasoning" />
-      <node id="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)" label="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)" />
-      <node id="Artificial Intelligence Review" label="Artificial Intelligence Review" />
-      <node id="ICGA Journal" label="ICGA Journal" />
-      <node id="Logical Methods in Computer Science" label="Logical Methods in Computer Science" />
-      <node id="Informatica" label="Informatica" />
-      <node id="Journal of Universal Computer Science" label="Journal of Universal Computer Science" />
-      <node id="Electronic Notes in Theoretical Computer Science" label="Electronic Notes in Theoretical Computer Science" />
-      <node id="Mathematical Logic Quarterly" label="Mathematical Logic Quarterly" />
-      <node id="Computer Methods and Programs in Biomedicine" label="Computer Methods and Programs in Biomedicine" />
-      <node id="Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science)" label="Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science)" />
-      <node id="Teaching Mathematics and its Applications" label="Teaching Mathematics and its Applications" />
-      <node id="Spring Conference on Computer Graphics, SCCG 2003 - Conference Proceedings" label="Spring Conference on Computer Graphics, SCCG 2003 - Conference Proceedings" />
-      <node id="Journal of Experimental and Theoretical Artificial Intelligence" label="Journal of Experimental and Theoretical Artificial Intelligence" />
-      <node id="Computing and Informatics" label="Computing and Informatics" />
-      <node id="BMC Bioinformatics" label="BMC Bioinformatics" />
-      <node id="Computer Science and Information Systems" label="Computer Science and Information Systems" />
-      <node id="International Journal of Data Mining and Bioinformatics" label="International Journal of Data Mining and Bioinformatics" />
-      <node id="Proceedings of the 8th International Conference on Language Resources and Evaluation, LREC 2012" label="Proceedings of the 8th International Conference on Language Resources and Evaluation, LREC 2012" />
-      <node id="KDIR 2010 - Proceedings of the International Conference on Knowledge Discovery and Information Retrieval" label="KDIR 2010 - Proceedings of the International Conference on Knowledge Discovery and Information Retrieval" />
-      <node id="Journal of Biomedical Informatics" label="Journal of Biomedical Informatics" />
-      <node id="Genomics, Proteomics and Bioinformatics" label="Genomics, Proteomics and Bioinformatics" />
-      <node id="Publications de l'Institut Mathematique" label="Publications de l'Institut Mathematique" />
-      <node id="Physical Chemistry Chemical Physics" label="Physical Chemistry Chemical Physics" />
-      <node id="Linear Algebra and Its Applications" label="Linear Algebra and Its Applications" />
-      <node id="Protein Journal" label="Protein Journal" />
-      <node id="Journal of Molecular Modeling" label="Journal of Molecular Modeling" />
-      <node id="Chemical Industry and Chemical Engineering Quarterly" label="Chemical Industry and Chemical Engineering Quarterly" />
-      <node id="Mathematics of Computation" label="Mathematics of Computation" />
-      <node id="Applicable Algebra in Engineering, Communications and Computing" label="Applicable Algebra in Engineering, Communications and Computing" />
-      <node id="Soft Computing" label="Soft Computing" />
-      <node id="TOP" label="TOP" />
-      <node id="Applied Soft Computing Journal" label="Applied Soft Computing Journal" />
-      <node id="International Journal of Clinical and Experimental Medicine" label="International Journal of Clinical and Experimental Medicine" />
-      <node id="Electronic Notes in Discrete Mathematics" label="Electronic Notes in Discrete Mathematics" />
-      <node id="ACM International Conference Proceeding Series" label="ACM International Conference Proceeding Series" />
-      <node id="MIPRO 2012 - 35th International Convention on Information and Communication Technology, Electronics and Microelectronics - Proceedings" label="MIPRO 2012 - 35th International Convention on Information and Communication Technology, Electronics and Microelectronics - Proceedings" />
-      <node id="Yugoslav Journal of Operations Research" label="Yugoslav Journal of Operations Research" />
-      <node id="Kragujevac Journal of Mathematics" label="Kragujevac Journal of Mathematics" />
-      <node id="Advances in Intelligent and Soft Computing" label="Advances in Intelligent and Soft Computing" />
-      <node id="European Journal of Operational Research" label="European Journal of Operational Research" />
-      <node id="RAIRO - Operations Research" label="RAIRO - Operations Research" />
-      <node id="Journal of B.U.ON." label="Journal of B.U.ON." />
-      <node id="Plant Cell, Tissue and Organ Culture" label="Plant Cell, Tissue and Organ Culture" />
-      <node id="Proceedings of the IX Bulgarian-Serbian Astronomical Conference: Astroinformatics, BSACA 2014" label="Proceedings of the IX Bulgarian-Serbian Astronomical Conference: Astroinformatics, BSACA 2014" />
-      <node id="Computer Languages, Systems and Structures" label="Computer Languages, Systems and Structures" />
-      <node id="Constraints" label="Constraints" />
-      <node id="Theoretical Computer Science" label="Theoretical Computer Science" />
-      <node id="SISY 2005 - 3rd Serbian-Hungarian Joint Symposium on Intelligent Systems" label="SISY 2005 - 3rd Serbian-Hungarian Joint Symposium on Intelligent Systems" />
-      <node id="Archive of Oncology" label="Archive of Oncology" />
-      <node id="Education and Information Technologies" label="Education and Information Technologies" />
-      <node id="Information Technology and Control" label="Information Technology and Control" />
-      <node id="International Transactions in Operational Research" label="International Transactions in Operational Research" />
-      <node id="Computers and Education" label="Computers and Education" />
-      <node id="Filomat" label="Filomat" />
-      <node id="International Journal of Simulation Modelling" label="International Journal of Simulation Modelling" />
-      <node id="Acta Polytechnica Hungarica" label="Acta Polytechnica Hungarica" />
-      <node id="Annals of Operations Research" label="Annals of Operations Research" />
-      <node id="Applied and Computational Mathematics" label="Applied and Computational Mathematics" />
-      <node id="SISY 2014 - IEEE 12th International Symposium on Intelligent Systems and Informatics, Proceedings" label="SISY 2014 - IEEE 12th International Symposium on Intelligent Systems and Informatics, Proceedings" />
-      <node id="Informatica (Netherlands)" label="Informatica (Netherlands)" />
-      <node id="SISY 2013 - IEEE 11th International Symposium on Intelligent Systems and Informatics, Proceedings" label="SISY 2013 - IEEE 11th International Symposium on Intelligent Systems and Informatics, Proceedings" />
-      <node id="Journal of Chemometrics" label="Journal of Chemometrics" />
-      <node id="2012 IEEE 10th Jubilee International Symposium on Intelligent Systems and Informatics, SISY 2012" label="2012 IEEE 10th Jubilee International Symposium on Intelligent Systems and Informatics, SISY 2012" />
-      <node id="WSEAS Transactions on Computers" label="WSEAS Transactions on Computers" />
-      <node id="SISY 2006 - 4th Serbian-Hungarian Joint Symposium on Intelligent Systems" label="SISY 2006 - 4th Serbian-Hungarian Joint Symposium on Intelligent Systems" />
-      <node id="Journal of Computational Biology" label="Journal of Computational Biology" />
-      <node id="Match" label="Match" />
-      <node id="Journal of Immunological Methods" label="Journal of Immunological Methods" />
-      <node id="Intelligent Data Analysis" label="Intelligent Data Analysis" />
-      <node id="CEUR Workshop Proceedings" label="CEUR Workshop Proceedings" />
-      <node id="Zivot Umjetnosti" label="Zivot Umjetnosti" />
-      <node id="Journal of Multiple-Valued Logic and Soft Computing" label="Journal of Multiple-Valued Logic and Soft Computing" />
-      <node id="Kybernetes" label="Kybernetes" />
-      <node id="Computers and Geosciences" label="Computers and Geosciences" />
-      <node id="Nonlinear Dynamics" label="Nonlinear Dynamics" />
-      <node id="Information and Software Technology" label="Information and Software Technology" />
-      <node id="International Journal of Applied Earth Observation and Geoinformation" label="International Journal of Applied Earth Observation and Geoinformation" />
-      <node id="ICSOFT 2008 - Proceedings of the 3rd International Conference on Software and Data Technologies" label="ICSOFT 2008 - Proceedings of the 3rd International Conference on Software and Data Technologies" />
-      <node id="Electronic Library" label="Electronic Library" />
-      <node id="Advances in Computers" label="Advances in Computers" />
-      <node id="GWC 2014: Proceedings of the 7th Global Wordnet Conference" label="GWC 2014: Proceedings of the 7th Global Wordnet Conference" />
-      <node id="OR Spectrum" label="OR Spectrum" />
-      <node id="Optimization Letters" label="Optimization Letters" />
-      <node id="European Journal of Industrial Engineering" label="European Journal of Industrial Engineering" />
-      <node id="IISA 2015 - 6th International Conference on Information, Intelligence, Systems and Applications" label="IISA 2015 - 6th International Conference on Information, Intelligence, Systems and Applications" />
-      <node id="Big Data Management, Technologies, and Applications" label="Big Data Management, Technologies, and Applications" />
-      <node id="Proceedings of the 2012 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2012" label="Proceedings of the 2012 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2012" />
-      <node id="IEEE International Conference on Consumer Electronics - Berlin, ICCE-Berlin" label="IEEE International Conference on Consumer Electronics - Berlin, ICCE-Berlin" />
-      <node id="24th Telecommunications Forum, TELFOR 2016" label="24th Telecommunications Forum, TELFOR 2016" />
-      <node id="Vojnosanitetski Pregled" label="Vojnosanitetski Pregled" />
-      <node id="Medical Ultrasonography" label="Medical Ultrasonography" />
-      <node id="Acta Clinica Croatica" label="Acta Clinica Croatica" />
-      <node id="Journal of Gastrointestinal and Liver Diseases" label="Journal of Gastrointestinal and Liver Diseases" />
-      <node id="2017 25th Telecommunications Forum, TELFOR 2017 - Proceedings" label="2017 25th Telecommunications Forum, TELFOR 2017 - Proceedings" />
-      <node id="FME Transactions" label="FME Transactions" />
-      <node id="Telfor Journal" label="Telfor Journal" />
-      <node id="2016 13th Symposium on Neural Networks and Applications, NEUREL 2016" label="2016 13th Symposium on Neural Networks and Applications, NEUREL 2016" />
-      <node id="Proceedings of the 10th International Conference on Language Resources and Evaluation, LREC 2016" label="Proceedings of the 10th International Conference on Language Resources and Evaluation, LREC 2016" />
-      <node id="Multimedia Tools and Applications" label="Multimedia Tools and Applications" />
-      <node id="2014 22nd Telecommunications Forum, TELFOR 2014 - Proceedings of Papers" label="2014 22nd Telecommunications Forum, TELFOR 2014 - Proceedings of Papers" />
-      <node id="Computer Applications in Engineering Education" label="Computer Applications in Engineering Education" />
-      <node id="International Journal of Engineering Education" label="International Journal of Engineering Education" />
-      <node id="IEEE Global Engineering Education Conference, EDUCON" label="IEEE Global Engineering Education Conference, EDUCON" />
-      <node id="Hepato-Gastroenterology" label="Hepato-Gastroenterology" />
-      <node id="International Journal of Intelligent Systems" label="International Journal of Intelligent Systems" />
-      <node id="Decision Support Systems" label="Decision Support Systems" />
-      <node id="IEEE AFRICON Conference" label="IEEE AFRICON Conference" />
-      <node id="IEEE Transactions on Education" label="IEEE Transactions on Education" />
-      <node id="2012 20th Telecommunications Forum, TELFOR 2012 - Proceedings" label="2012 20th Telecommunications Forum, TELFOR 2012 - Proceedings" />
-      <node id="IS'2012 - 2012 6th IEEE International Conference Intelligent Systems, Proceedings" label="IS'2012 - 2012 6th IEEE International Conference Intelligent Systems, Proceedings" />
-      <node id="2012 IEEE International Conference on Industrial Technology, ICIT 2012, Proceedings" label="2012 IEEE International Conference on Industrial Technology, ICIT 2012, Proceedings" />
-      <node id="Proceedings - 2012 IEEE 19th International Conference and Workshops on Engineering of Computer-Based Systems, ECBS 2012" label="Proceedings - 2012 IEEE 19th International Conference and Workshops on Engineering of Computer-Based Systems, ECBS 2012" />
-      <node id="2011 19th Telecommunications Forum, TELFOR 2011 - Proceedings of Papers" label="2011 19th Telecommunications Forum, TELFOR 2011 - Proceedings of Papers" />
-      <node id="Proceedings - 2011 2nd Eastern European Regional Conference on the Engineering of Computer Based Systems, ECBS-EERC 2011" label="Proceedings - 2011 2nd Eastern European Regional Conference on the Engineering of Computer Based Systems, ECBS-EERC 2011" />
-      <node id="International Journal of Electrical Engineering Education" label="International Journal of Electrical Engineering Education" />
-      <node id="Computer Journal" label="Computer Journal" />
-      <node id="Proceedings of the 2002 Workshop on Computer Architecture Education, WCAE 2002 - Held in conjunction with the 29th International Symposium on Computer Architecture" label="Proceedings of the 2002 Workshop on Computer Architecture Education, WCAE 2002 - Held in conjunction with the 29th International Symposium on Computer Architecture" />
-      <node id="MODELSWARD 2017 - Proceedings of the 5th International Conference on Model-Driven Engineering and Software Development" label="MODELSWARD 2017 - Proceedings of the 5th International Conference on Model-Driven Engineering and Software Development" />
-      <node id="Journal of Electrical Engineering" label="Journal of Electrical Engineering" />
-      <node id="Software and Systems Modeling" label="Software and Systems Modeling" />
-      <node id="MODELSWARD 2015 - 3rd International Conference on Model-Driven Engineering and Software Development, Proceedings" label="MODELSWARD 2015 - 3rd International Conference on Model-Driven Engineering and Software Development, Proceedings" />
-      <node id="International Journal of Human Computer Studies" label="International Journal of Human Computer Studies" />
-      <node id="IEEE Software" label="IEEE Software" />
-      <node id="IEEE Transactions on Software Engineering" label="IEEE Transactions on Software Engineering" />
-      <node id="International Journal of Parallel Programming" label="International Journal of Parallel Programming" />
-      <node id="Proceedings of the Hawaii International Conference on System Sciences" label="Proceedings of the Hawaii International Conference on System Sciences" />
-      <node id="SIGPLAN Notices (ACM Special Interest Group on Programming Languages)" label="SIGPLAN Notices (ACM Special Interest Group on Programming Languages)" />
-      <node id="Proceedings of the International Parallel Processing Symposium, IPPS" label="Proceedings of the International Parallel Processing Symposium, IPPS" />
-      <node id="Proceedings of the 1st Merged International Parallel Processing Symposium and Symposium on Parallel and Distributed Processing, IPPS/SPDP 1998" label="Proceedings of the 1st Merged International Parallel Processing Symposium and Symposium on Parallel and Distributed Processing, IPPS/SPDP 1998" />
-      <node id="IET Computers and Digital Techniques" label="IET Computers and Digital Techniques" />
-      <node id="Journal of Supercomputing" label="Journal of Supercomputing" />
-      <node id="Studies in Computational Intelligence" label="Studies in Computational Intelligence" />
-      <node id="IEEE Transactions on Learning Technologies" label="IEEE Transactions on Learning Technologies" />
-      <node id="Journal of Aerospace Information Systems" label="Journal of Aerospace Information Systems" />
-      <node id="2013 11th International Conference on Telecommunications in Modern Satellite, Cable and Broadcasting Services, TELSIKS 2013" label="2013 11th International Conference on Telecommunications in Modern Satellite, Cable and Broadcasting Services, TELSIKS 2013" />
-      <node id="Journal of Parallel and Distributed Computing" label="Journal of Parallel and Distributed Computing" />
-      <node id="Proceedings of the Workshop on Advanced Visual Interfaces AVI" label="Proceedings of the Workshop on Advanced Visual Interfaces AVI" />
-      <node id="2011 10th International Conference on Telecommunications in Modern Satellite, Cable and Broadcasting Services, TELSIKS 2011 - Proceedings of Papers" label="2011 10th International Conference on Telecommunications in Modern Satellite, Cable and Broadcasting Services, TELSIKS 2011 - Proceedings of Papers" />
-      <node id="Proceedings - 36th EUROMICRO Conference on Software Engineering and Advanced Applications, SEAA 2010" label="Proceedings - 36th EUROMICRO Conference on Software Engineering and Advanced Applications, SEAA 2010" />
-      <node id="Proceedings of the ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference 2009, DETC2009" label="Proceedings of the ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference 2009, DETC2009" />
-      <node id="Proceedings of the ASME Design Engineering Technical Conference" label="Proceedings of the ASME Design Engineering Technical Conference" />
-      <node id="Dr. Dobb's Journal" label="Dr. Dobb's Journal" />
-      <node id="Future Generation Computer Systems" label="Future Generation Computer Systems" />
-      <node id="Neural, Parallel and Scientific Computations" label="Neural, Parallel and Scientific Computations" />
-      <node id="Studies in Health Technology and Informatics" label="Studies in Health Technology and Informatics" />
-      <node id="IEEE Transactions on Parallel and Distributed Systems" label="IEEE Transactions on Parallel and Distributed Systems" />
-      <node id="Information Processing Letters" label="Information Processing Letters" />
-      <node id="Serbian Journal of Electrical Engineering" label="Serbian Journal of Electrical Engineering" />
-      <node id="International Journal of Software Engineering and Knowledge Engineering" label="International Journal of Software Engineering and Knowledge Engineering" />
-      <node id="IEEE Access" label="IEEE Access" />
-      <node id="Proceedings of ISSI 2015 Istanbul: 15th International Society of Scientometrics and Informetrics Conference" label="Proceedings of ISSI 2015 Istanbul: 15th International Society of Scientometrics and Informetrics Conference" />
-      <node id="Ad-Hoc and Sensor Wireless Networks" label="Ad-Hoc and Sensor Wireless Networks" />
-      <node id="2013 21st Telecommunications Forum Telfor, TELFOR 2013 - Proceedings of Papers" label="2013 21st Telecommunications Forum Telfor, TELFOR 2013 - Proceedings of Papers" />
-      <node id="IEEE Annals of the History of Computing" label="IEEE Annals of the History of Computing" />
-      <node id="Computer Communications" label="Computer Communications" />
-      <node id="ICEMT 2010 - 2010 International Conference on Education and Management Technology, Proceedings" label="ICEMT 2010 - 2010 International Conference on Education and Management Technology, Proceedings" />
-      <node id="Proceedings - Frontiers in Education Conference" label="Proceedings - Frontiers in Education Conference" />
-      <node id="IEEE International Workshop on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems - Proceedings" label="IEEE International Workshop on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems - Proceedings" />
-      <node id="Proceedings - IEEE Computer Society's Annual International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunications Systems, MASCOTS" label="Proceedings - IEEE Computer Society's Annual International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunications Systems, MASCOTS" />
-      <node id="Proceedings of the International Conference on Microelectronics" label="Proceedings of the International Conference on Microelectronics" />
-      <node id="Conference Proceedings of the EUROMICRO" label="Conference Proceedings of the EUROMICRO" />
-      <node id="Proceedings of the Mediterranean Electrotechnical Conference - MELECON" label="Proceedings of the Mediterranean Electrotechnical Conference - MELECON" />
-      <node id="IEEE Parallel and Distributed Technology" label="IEEE Parallel and Distributed Technology" />
-      <node id="Microprocessing and Microprogramming" label="Microprocessing and Microprogramming" />
-      <node id="Parallel Computing" label="Parallel Computing" />
-      <node id="2017 Zooming Innovation in Consumer Electronics International Conference: Galvanize Your Creativity, ZINC 2017" label="2017 Zooming Innovation in Consumer Electronics International Conference: Galvanize Your Creativity, ZINC 2017" />
-      <node id="ACM Computing Surveys" label="ACM Computing Surveys" />
-      <node id="2015 23rd Telecommunications Forum, TELFOR 2015" label="2015 23rd Telecommunications Forum, TELFOR 2015" />
-      <node id="Concurrency Computation" label="Concurrency Computation" />
-      <node id="Proceedings - IEEE 7th International Conference on Software Testing, Verification and Validation, ICST 2014" label="Proceedings - IEEE 7th International Conference on Software Testing, Verification and Validation, ICST 2014" />
-      <node id="Computers and Electrical Engineering" label="Computers and Electrical Engineering" />
-      <node id="Proceedings - 2013 International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation, IC-SAMOS 2013" label="Proceedings - 2013 International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation, IC-SAMOS 2013" />
-      <node id="ECBS-EERC 2009 - 1st Eastern European Regional Conference on the Engineering of Computer-Based Systems: Setting New ECBS Frontiers." label="ECBS-EERC 2009 - 1st Eastern European Regional Conference on the Engineering of Computer-Based Systems: Setting New ECBS Frontiers." />
-      <node id="EUROCON 2007 - The International Conference on Computer as a Tool" label="EUROCON 2007 - The International Conference on Computer as a Tool" />
-      <node id="EUROCON 2005 - The International Conference on Computer as a Tool" label="EUROCON 2005 - The International Conference on Computer as a Tool" />
-      <node id="Canadian Conference on Electrical and Computer Engineering" label="Canadian Conference on Electrical and Computer Engineering" />
-      <node id="Electromagnetic Biology and Medicine" label="Electromagnetic Biology and Medicine" />
-      <node id="Microprocessors and Microsystems" label="Microprocessors and Microsystems" />
-      <node id="International Journal of Computers and Applications" label="International Journal of Computers and Applications" />
-      <node id="Informatica (Ljubljana)" label="Informatica (Ljubljana)" />
-      <node id="Journal of Systems Architecture" label="Journal of Systems Architecture" />
-      <node id="IEEE Region 10's Annual International Conference, Proceedings" label="IEEE Region 10's Annual International Conference, Proceedings" />
-      <node id="IEEE Micro" label="IEEE Micro" />
-      <node id="Revue Roumaine des Sciences Techniques Serie Electrotechnique et Energetique" label="Revue Roumaine des Sciences Techniques Serie Electrotechnique et Energetique" />
-      <node id="Advanced Materials Research" label="Advanced Materials Research" />
-      <node id="IEEE Transactions on Information Technology in Biomedicine" label="IEEE Transactions on Information Technology in Biomedicine" />
-      <node id="Proceedings of the Hawaii International Conference on System Science" label="Proceedings of the Hawaii International Conference on System Science" />
-      <node id="International Journal on Semantic Web and Information Systems" label="International Journal on Semantic Web and Information Systems" />
-      <node id="Aviation and Airport Security: Management, Improvement Strategies and Future Challenges" label="Aviation and Airport Security: Management, Improvement Strategies and Future Challenges" />
-      <node id="Journal of Web Semantics" label="Journal of Web Semantics" />
-      <node id="Energy and Buildings" label="Energy and Buildings" />
-      <node id="Advanced Engineering Informatics" label="Advanced Engineering Informatics" />
-      <node id="2015 IEEE Eindhoven PowerTech, PowerTech 2015" label="2015 IEEE Eindhoven PowerTech, PowerTech 2015" />
-      <node id="Conference Record - IEEE Instrumentation and Measurement Technology Conference" label="Conference Record - IEEE Instrumentation and Measurement Technology Conference" />
-      <node id="Proceedings - International Workshop on Database and Expert Systems Applications, DEXA" label="Proceedings - International Workshop on Database and Expert Systems Applications, DEXA" />
-      <node id="Information Processing and Management" label="Information Processing and Management" />
-      <node id="Communications in Computer and Information Science" label="Communications in Computer and Information Science" />
-      <node id="Information Resources Management Journal" label="Information Resources Management Journal" />
-      <node id="Renewable and Sustainable Energy Reviews" label="Renewable and Sustainable Energy Reviews" />
-      <node id="Expert Systems with Applications" label="Expert Systems with Applications" />
-      <node id="Proceedings of I-KNOW 2009 - 9th International Conference on Knowledge Management and Knowledge Technologies and Proceedings of I-SEMANTICS 2009 - 5th International Conference on Semantic Systems" label="Proceedings of I-KNOW 2009 - 9th International Conference on Knowledge Management and Knowledge Technologies and Proceedings of I-SEMANTICS 2009 - 5th International Conference on Semantic Systems" />
-      <node id="Social, Managerial, and Organizational Dimensions of Enterprise Information Systems" label="Social, Managerial, and Organizational Dimensions of Enterprise Information Systems" />
-      <node id="Proc. 9th WSEAS Int. Conf. Simulation, Modelling and Optimization, SMO '09, 5th WSEAS Int. Symp. Grid Computing, Proc. 5th WSEAS Int. Symp. Digital Libraries, Proc. 5th WSEAS Int. Symp. Data Mining" label="Proc. 9th WSEAS Int. Conf. Simulation, Modelling and Optimization, SMO '09, 5th WSEAS Int. Symp. Grid Computing, Proc. 5th WSEAS Int. Symp. Digital Libraries, Proc. 5th WSEAS Int. Symp. Data Mining" />
-      <node id="International Journal of Enterprise Information Systems" label="International Journal of Enterprise Information Systems" />
-      <node id="IT Professional" label="IT Professional" />
-      <node id="Proceedings of the IADIS International Conference WWW/Internet 2009, ICWI 2009" label="Proceedings of the IADIS International Conference WWW/Internet 2009, ICWI 2009" />
-      <node id="2008 International Conference on Computational Intelligence for Modelling Control and Automation, CIMCA 2008" label="2008 International Conference on Computational Intelligence for Modelling Control and Automation, CIMCA 2008" />
-      <node id="WSEAS Transactions on Information Science and Applications" label="WSEAS Transactions on Information Science and Applications" />
-      <node id="Water Research" label="Water Research" />
-      <node id="Adaptive Technologies and Business Integration: Social, Managerial and Organizational Dimensions" label="Adaptive Technologies and Business Integration: Social, Managerial and Organizational Dimensions" />
-      <node id="Journal of Hazardous Materials" label="Journal of Hazardous Materials" />
-      <node id="Journal of Hydroinformatics" label="Journal of Hydroinformatics" />
-      <node id="Journal of Information and Knowledge Management" label="Journal of Information and Knowledge Management" />
-      <node id="Proceedings of the IASTED International Conference on Applied Simulation and Modelling" label="Proceedings of the IASTED International Conference on Applied Simulation and Modelling" />
-      <node id="ICEIS 2003 - Proceedings of the 5th International Conference on Enterprise Information Systems" label="ICEIS 2003 - Proceedings of the 5th International Conference on Enterprise Information Systems" />
-      <node id="Journal of Systems and Information Technology" label="Journal of Systems and Information Technology" />
-      <node id="International Symposium on Technology and Society" label="International Symposium on Technology and Society" />
-      <node id="Engineering Applications of Artificial Intelligence" label="Engineering Applications of Artificial Intelligence" />
-      <node id="Expert Systems" label="Expert Systems" />
-      <node id="Computers in Industry" label="Computers in Industry" />
-      <node id="Mathematics and Computers in Simulation" label="Mathematics and Computers in Simulation" />
-      <node id="Applications of Artificial Intelligence in Engineering" label="Applications of Artificial Intelligence in Engineering" />
-      <node id="International IEEE/IAS Conference on Industrial Automation and Control: Emerging Technologies, Proceedings" label="International IEEE/IAS Conference on Industrial Automation and Control: Emerging Technologies, Proceedings" />
-      <node id="IEEE expert" label="IEEE expert" />
-      <node id="IEEE Transactions on Knowledge and Data Engineering" label="IEEE Transactions on Knowledge and Data Engineering" />
-      <node id="Robotics and Computer Integrated Manufacturing" label="Robotics and Computer Integrated Manufacturing" />
-      <node id="Expert Systems With Applications" label="Expert Systems With Applications" />
-      <node id="Proceedings of the Euromicro Conference on Software Maintenance and Reengineering, CSMR" label="Proceedings of the Euromicro Conference on Software Maintenance and Reengineering, CSMR" />
-      <node id="IET Software" label="IET Software" />
-      <node id="Proceedings of the ACM Symposium on Applied Computing" label="Proceedings of the ACM Symposium on Applied Computing" />
-      <node id="2017 40th International Convention on Information and Communication Technology, Electronics and Microelectronics, MIPRO 2017 - Proceedings" label="2017 40th International Convention on Information and Communication Technology, Electronics and Microelectronics, MIPRO 2017 - Proceedings" />
-      <node id="GeoInformatica" label="GeoInformatica" />
-      <node id="Journal of Computer Science and Technology" label="Journal of Computer Science and Technology" />
-      <node id="Proceedings of the IEEE Symposium on Reliable Distributed Systems" label="Proceedings of the IEEE Symposium on Reliable Distributed Systems" />
-      <node id="Proceedings of the IEEE" label="Proceedings of the IEEE" />
-      <node id="Computer" label="Computer" />
-      <node id="2016 Zooming Innovation in Consumer Electronics International Conference, ZINC 2016" label="2016 Zooming Innovation in Consumer Electronics International Conference, ZINC 2016" />
-      <node id="Digest of Technical Papers - IEEE International Conference on Consumer Electronics" label="Digest of Technical Papers - IEEE International Conference on Consumer Electronics" />
-      <node id="Proceedings 2013 IEEE 3rd International Conference on Consumer Electronics - Berlin, ICCE-Berlin 2013" label="Proceedings 2013 IEEE 3rd International Conference on Consumer Electronics - Berlin, ICCE-Berlin 2013" />
-      <node id="Computer Networks" label="Computer Networks" />
-      <node id="1st IEEE Conference on Network Softwarization: Software-Defined Infrastructures for Networks, Clouds, IoT and Services, NETSOFT 2015" label="1st IEEE Conference on Network Softwarization: Software-Defined Infrastructures for Networks, Clouds, IoT and Services, NETSOFT 2015" />
-      <node id="International Journal of Network Management" label="International Journal of Network Management" />
-      <node id="TERENA Networking Conference 2010: Living the Network Life, TNC 2010" label="TERENA Networking Conference 2010: Living the Network Life, TNC 2010" />
-      <node id="16th Networking in Education and Research RoEduNet International Conference, RoEduNet 2017 - Proceedings" label="16th Networking in Education and Research RoEduNet International Conference, RoEduNet 2017 - Proceedings" />
-      <node id="Proceedings - 2017 IEEE 13th International Conference on Intelligent Computer Communication and Processing, ICCP 2017" label="Proceedings - 2017 IEEE 13th International Conference on Intelligent Computer Communication and Processing, ICCP 2017" />
-      <node id="Elektronika ir Elektrotechnika" label="Elektronika ir Elektrotechnika" />
-      <node id="10th IFIP/IEEE International Symposium on Integrated Network Management 2007, IM '07" label="10th IFIP/IEEE International Symposium on Integrated Network Management 2007, IM '07" />
-      <node id="Proceedings of the IEEE International Conference on Control Applications" label="Proceedings of the IEEE International Conference on Control Applications" />
-      <node id="Srpski Arhiv za Celokupno Lekarstvo" label="Srpski Arhiv za Celokupno Lekarstvo" />
-      <node id="Journal of Big Data" label="Journal of Big Data" />
-      <node id="Mathematical Problems in Engineering" label="Mathematical Problems in Engineering" />
-      <node id="IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems" label="IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems" />
-      <node id="Information Systems and e-Business Management" label="Information Systems and e-Business Management" />
-      <node id="ASME 2017 12th International Manufacturing Science and Engineering Conference, MSEC 2017 collocated with the JSME/ASME 2017 6th International Conference on Materials and Processing" label="ASME 2017 12th International Manufacturing Science and Engineering Conference, MSEC 2017 collocated with the JSME/ASME 2017 6th International Conference on Materials and Processing" />
-      <node id="Proceedings of the I-ESA Conferences" label="Proceedings of the I-ESA Conferences" />
-      <node id="International Journal of Industrial Engineering : Theory Applications and Practice" label="International Journal of Industrial Engineering : Theory Applications and Practice" />
-      <node id="Proceedings of the 2nd International Workshop on Future Trends of Model-Driven Development, FTMDD 2010, in Conjunction with ICEIS 2010" label="Proceedings of the 2nd International Workshop on Future Trends of Model-Driven Development, FTMDD 2010, in Conjunction with ICEIS 2010" />
-      <node id="Technics Technologies Education Management" label="Technics Technologies Education Management" />
-      <node id="International Journal of Manufacturing Technology and Management" label="International Journal of Manufacturing Technology and Management" />
-      <node id="Handbook of Research on High Performance and Cloud Computing in Scientific Research and Education" label="Handbook of Research on High Performance and Cloud Computing in Scientific Research and Education" />
-      <node id="Proceedings - 2014 9th International Conference on the Quality of Information and Communications Technology, QUATIC 2014" label="Proceedings - 2014 9th International Conference on the Quality of Information and Communications Technology, QUATIC 2014" />
-      <node id="Proceedings - 2012 8th International Conference on the Quality of Information and Communications Technology, QUATIC 2012" label="Proceedings - 2012 8th International Conference on the Quality of Information and Communications Technology, QUATIC 2012" />
-      <node id="Proceedings - 2011 34th IEEE Software Engineering Workshop, SEW 2011" label="Proceedings - 2011 34th IEEE Software Engineering Workshop, SEW 2011" />
-      <node id="2011 7th Central and Eastern European Software Engineering Conference, CEE-SECR 2011" label="2011 7th Central and Eastern European Software Engineering Conference, CEE-SECR 2011" />
-      <node id="Proceedings of the IASTED International Conference on Artificial Intelligence and Soft Computing, ASC 2011" label="Proceedings of the IASTED International Conference on Artificial Intelligence and Soft Computing, ASC 2011" />
-      <node id="Information Systems Development: Towards a Service Provision Society" label="Information Systems Development: Towards a Service Provision Society" />
-      <node id="International Conference on Software Engineering Theory and Practice 2007, SETP 2007" label="International Conference on Software Engineering Theory and Practice 2007, SETP 2007" />
-      <node id="Progress in Education" label="Progress in Education" />
-      <node id="British Journal of Educational Technology" label="British Journal of Educational Technology" />
-      <node id="IFMBE Proceedings" label="IFMBE Proceedings" />
-      <node id="IEEE Transactions on Human-Machine Systems" label="IEEE Transactions on Human-Machine Systems" />
-      <node id="International Journal of Artificial Intelligence in Education" label="International Journal of Artificial Intelligence in Education" />
-      <node id="Educational Technology Research and Development" label="Educational Technology Research and Development" />
-      <node id="Technology, Knowledge and Learning" label="Technology, Knowledge and Learning" />
-      <node id="eLmL - International Conference on Mobile, Hybrid, and On-line Learning" label="eLmL - International Conference on Mobile, Hybrid, and On-line Learning" />
-      <node id="Educational Technology and Society" label="Educational Technology and Society" />
-      <node id="Advances in Intelligent Systems and Computing" label="Advances in Intelligent Systems and Computing" />
-      <node id="Knowledge Management Research and Practice" label="Knowledge Management Research and Practice" />
-      <node id="IEEE Transactions on Affective Computing" label="IEEE Transactions on Affective Computing" />
-      <node id="Proceedings of the 5th India Software Engineering Conference, ISEC'12" label="Proceedings of the 5th India Software Engineering Conference, ISEC'12" />
-      <node id="IEEE Transactions on Systems, Man and Cybernetics Part C: Applications and Reviews" label="IEEE Transactions on Systems, Man and Cybernetics Part C: Applications and Reviews" />
-      <node id="Interactive Learning Environments" label="Interactive Learning Environments" />
-      <node id="Knowledge Management and E-Learning" label="Knowledge Management and E-Learning" />
-      <node id="Social Science Computer Review" label="Social Science Computer Review" />
-      <node id="Program" label="Program" />
-      <node id="ISEC'10 - Proceedings of the 2010 India Software Engineering Conference" label="ISEC'10 - Proceedings of the 2010 India Software Engineering Conference" />
-      <node id="Handbook of Research on Digital Libraries: Design, Development, and Impact" label="Handbook of Research on Digital Libraries: Design, Development, and Impact" />
-      <node id="Model Driven Engineering and Ontology Development" label="Model Driven Engineering and Ontology Development" />
-      <node id="Proceedings of the 17th International Conference on Computers in Education, ICCE 2009" label="Proceedings of the 17th International Conference on Computers in Education, ICCE 2009" />
-      <node id="Proceedings of the 2009 Conference of the Center for Advanced Studies on Collaborative Research, CASCON '09" label="Proceedings of the 2009 Conference of the Center for Advanced Studies on Collaborative Research, CASCON '09" />
-      <node id="KMIS 2009 - 1st International Conference on Knowledge Management and Information Sharing, Proceedings" label="KMIS 2009 - 1st International Conference on Knowledge Management and Information Sharing, Proceedings" />
-      <node id="Software - Practice and Experience" label="Software - Practice and Experience" />
-      <node id="Journal of Emerging Technologies in Web Intelligence" label="Journal of Emerging Technologies in Web Intelligence" />
-      <node id="The Semantic Web for Knowledge and Data Management: Technologies and Practices" label="The Semantic Web for Knowledge and Data Management: Technologies and Practices" />
-      <node id="Technology Enhanced Learning: Best Practices" label="Technology Enhanced Learning: Best Practices" />
-      <node id="International Journal of Information and Communication Technology" label="International Journal of Information and Communication Technology" />
-      <node id="International Journal of Continuing Engineering Education and Life-Long Learning" label="International Journal of Continuing Engineering Education and Life-Long Learning" />
-      <node id="Electronic Communications of the EASST" label="Electronic Communications of the EASST" />
-      <node id="Proceedings of the IASTED International Conference on Artificial Intelligence and Applications, AIA 2007" label="Proceedings of the IASTED International Conference on Artificial Intelligence and Applications, AIA 2007" />
-      <node id="Proceedings - The 7th IEEE International Conference on Advanced Learning Technologies, ICALT 2007" label="Proceedings - The 7th IEEE International Conference on Advanced Learning Technologies, ICALT 2007" />
-      <node id="Proceedings - IEEE International Enterprise Distributed Object Computing Workshop, EDOC" label="Proceedings - IEEE International Enterprise Distributed Object Computing Workshop, EDOC" />
-      <node id="International Journal of Web Engineering and Technology" label="International Journal of Web Engineering and Technology" />
-      <node id="IEEE Internet Computing" label="IEEE Internet Computing" />
-      <node id="Welding in the World" label="Welding in the World" />
-      <node id="International Journal on Software Tools for Technology Transfer" label="International Journal on Software Tools for Technology Transfer" />
-      <node id="International Journal of Knowledge and Learning" label="International Journal of Knowledge and Learning" />
-      <node id="IEEE Intelligent Systems" label="IEEE Intelligent Systems" />
-      <node id="Proceedings of the 15th International Conference on World Wide Web" label="Proceedings of the 15th International Conference on World Wide Web" />
-      <node id="Model Driven Architecture and Ontology Development" label="Model Driven Architecture and Ontology Development" />
-      <node id="IFIP International Federation for Information Processing" label="IFIP International Federation for Information Processing" />
-      <node id="Knowledge-Based Systems" label="Knowledge-Based Systems" />
-      <node id="International Journal of Web Based Communities" label="International Journal of Web Based Communities" />
-      <node id="Journal of Object Technology" label="Journal of Object Technology" />
-      <node id="Semantic Web and Information Systems" label="Semantic Web and Information Systems" />
-      <node id="Encyclopedia of Human Computer Interaction" label="Encyclopedia of Human Computer Interaction" />
-      <node id="Proceedings - 5th IEEE International Conference on Advanced Learning Technologies, ICALT 2005" label="Proceedings - 5th IEEE International Conference on Advanced Learning Technologies, ICALT 2005" />
-      <node id="MIPRO 2005 - 28th International Convention Proceedings: Microelectronics, Electronics and Electronic Technologies MEET, Hypermedia and Grid Systems HGS" label="MIPRO 2005 - 28th International Convention Proceedings: Microelectronics, Electronics and Electronic Technologies MEET, Hypermedia and Grid Systems HGS" />
-      <node id="Intelligent Learning Infrastructure for Knowledge Intensive Organizations: A Semantic Web Perspective" label="Intelligent Learning Infrastructure for Knowledge Intensive Organizations: A Semantic Web Perspective" />
-      <node id="Lecture Notes in Computer Science" label="Lecture Notes in Computer Science" />
-      <node id="Handbook of Software Engineering and Knowledge Engineering: Vol 3: Recent Advances" label="Handbook of Software Engineering and Knowledge Engineering: Vol 3: Recent Advances" />
-      <node id="2004 2nd International IEEE Conference 'Intelligent Systems' - Proceedings" label="2004 2nd International IEEE Conference 'Intelligent Systems' - Proceedings" />
-      <node id="Proceedings - IEEE International Conference on Advanced Learning Technologies, ICALT 2004" label="Proceedings - IEEE International Conference on Advanced Learning Technologies, ICALT 2004" />
-      <node id="Thirteenth International World Wide Web Conference Proceedings, WWW2004" label="Thirteenth International World Wide Web Conference Proceedings, WWW2004" />
-      <node id="Proceedings of the 13th International World Wide Web Conference on Alternate Track, Papers and Posters, WWW Alt. 2004" label="Proceedings of the 13th International World Wide Web Conference on Alternate Track, Papers and Posters, WWW Alt. 2004" />
-      <node id="Fuzzy Sets and Systems" label="Fuzzy Sets and Systems" />
-      <node id="IFIP Advances in Information and Communication Technology" label="IFIP Advances in Information and Communication Technology" />
-      <node id="Proceedings - 3rd IEEE International Conference on Advanced Learning Technologies, ICALT 2003" label="Proceedings - 3rd IEEE International Conference on Advanced Learning Technologies, ICALT 2003" />
-      <node id="Communications of the ACM" label="Communications of the ACM" />
-      <node id="Proceedings - International Conference on Computers in Education, ICCE 2002" label="Proceedings - International Conference on Computers in Education, ICCE 2002" />
-      <node id="Integrated Computer-Aided Engineering" label="Integrated Computer-Aided Engineering" />
-      <node id="Proceedings - International Workshop on Advanced Learning Technologies: Advanced Learning Technology: Design and Development Issues, IWALT 2000" label="Proceedings - International Workshop on Advanced Learning Technologies: Advanced Learning Technology: Design and Development Issues, IWALT 2000" />
-      <node id="SIGCSE Bulletin (Association for Computing Machinery, Special Interest Group on Computer Science Education)" label="SIGCSE Bulletin (Association for Computing Machinery, Special Interest Group on Computer Science Education)" />
-      <node id="Poceedings of the Conference on Integrating Technology into Computer Science Education, ITiCSE" label="Poceedings of the Conference on Integrating Technology into Computer Science Education, ITiCSE" />
-      <node id="Proceedings of the IEEE International Conference on Systems, Man and Cybernetics" label="Proceedings of the IEEE International Conference on Systems, Man and Cybernetics" />
-      <node id="Srpski arhiv za celokupno lekarstvo" label="Srpski arhiv za celokupno lekarstvo" />
-      <node id="Vojnosanitetski pregled. Military-medical and pharmaceutical review" label="Vojnosanitetski pregled. Military-medical and pharmaceutical review" />
-      <node id="International Journal of Flexible Manufacturing Systems" label="International Journal of Flexible Manufacturing Systems" />
-      <node id="Strategy Tools as Symbolic Objects in Managerial Language Games: Toward a Radical Constructivist Process Perspective" label="Strategy Tools as Symbolic Objects in Managerial Language Games: Toward a Radical Constructivist Process Perspective" />
-      <node id="Science and Engineering Ethics" label="Science and Engineering Ethics" />
-      <node id="ICSTW 2010 - 3rd International Conference on Software Testing, Verification, and Validation Workshops" label="ICSTW 2010 - 3rd International Conference on Software Testing, Verification, and Validation Workshops" />
-      <node id="Infusionstherapie und Transfusionsmedizin" label="Infusionstherapie und Transfusionsmedizin" />
-      <node id="Australasian Journal of Educational Technology" label="Australasian Journal of Educational Technology" />
-      <node id="Journal of Biomedical Semantics" label="Journal of Biomedical Semantics" />
-      <node id="Internet and Higher Education" label="Internet and Higher Education" />
-      <node id="Knowledge Engineering Review" label="Knowledge Engineering Review" />
-      <node id="2016 5th Mediterranean Conference on Embedded Computing, MECO 2016 - Including ECyPS 2016, BIOENG.MED 2016, MECO: Student Challenge 2016" label="2016 5th Mediterranean Conference on Embedded Computing, MECO 2016 - Including ECyPS 2016, BIOENG.MED 2016, MECO: Student Challenge 2016" />
-      <node id="Proceedings - International Conference on Tools with Artificial Intelligence, ICTAI" label="Proceedings - International Conference on Tools with Artificial Intelligence, ICTAI" />
-      <node id="Semantic Web" label="Semantic Web" />
-      <node id="Proceedings of the 7th International Conference on Knowledge Capture: &quot;Knowledge Capture in the Age of Massive Web Data&quot;, K-CAP 2013" label="Proceedings of the 7th International Conference on Knowledge Capture: &quot;Knowledge Capture in the Age of Massive Web Data&quot;, K-CAP 2013" />
-      <node id="Technology-Enhanced Professional Learning: Processes, Practices and Tools" label="Technology-Enhanced Professional Learning: Processes, Practices and Tools" />
-      <node id="Journal of Information Technology Education:Research" label="Journal of Information Technology Education:Research" />
-      <node id="CSEDU 2012 - Proceedings of the 4th International Conference on Computer Supported Education" label="CSEDU 2012 - Proceedings of the 4th International Conference on Computer Supported Education" />
-      <node id="Interdisciplinary Journal of Information, Knowledge, and Management" label="Interdisciplinary Journal of Information, Knowledge, and Management" />
-      <node id="Proceedings of the 2011 11th IEEE International Conference on Advanced Learning Technologies, ICALT 2011" label="Proceedings of the 2011 11th IEEE International Conference on Advanced Learning Technologies, ICALT 2011" />
-      <node id="Proceedings - 12th IEEE International Conference on Computational Science and Engineering, CSE 2009" label="Proceedings - 12th IEEE International Conference on Computational Science and Engineering, CSE 2009" />
-      <node id="ICSC 2009 - 2009 IEEE International Conference on Semantic Computing" label="ICSC 2009 - 2009 IEEE International Conference on Semantic Computing" />
-      <node id="Computer Supported Collaborative Learning Practices, CSCL 2009 Community Events Proceedings - 9th International Conference" label="Computer Supported Collaborative Learning Practices, CSCL 2009 Community Events Proceedings - 9th International Conference" />
-      <node id="Proceedings - 2009 9th IEEE International Conference on Advanced Learning Technologies, ICALT 2009" label="Proceedings - 2009 9th IEEE International Conference on Advanced Learning Technologies, ICALT 2009" />
-      <node id="International Journal of Technology Enhanced Learning" label="International Journal of Technology Enhanced Learning" />
-      <node id="Proceedings - IEEE International Conference on Semantic Computing 2008, ICSC 2008" label="Proceedings - IEEE International Conference on Semantic Computing 2008, ICSC 2008" />
-      <node id="Proceedings - The 8th IEEE International Conference on Advanced Learning Technologies, ICALT 2008" label="Proceedings - The 8th IEEE International Conference on Advanced Learning Technologies, ICALT 2008" />
-      <node id="K-CAP'07: Proceedings of the Fourth International Conference on Knowledge Capture" label="K-CAP'07: Proceedings of the Fourth International Conference on Knowledge Capture" />
-      <node id="Proceedings - Sixth International Conference on Advanced Learning Technologies, ICALT 2006" label="Proceedings - Sixth International Conference on Advanced Learning Technologies, ICALT 2006" />
-      <node id="Proceedings - 2005 IEEE International Conference on e-Technology, e-Commerce and e-Service, EEE-05" label="Proceedings - 2005 IEEE International Conference on e-Technology, e-Commerce and e-Service, EEE-05" />
-      <node id="14th International World Wide Web Conference, WWW2005" label="14th International World Wide Web Conference, WWW2005" />
-      <node id="International Journal of Computers, Communications and Control" label="International Journal of Computers, Communications and Control" />
-      <node id="2016 6th International Conference on Computers Communications and Control, ICCCC 2016" label="2016 6th International Conference on Computers Communications and Control, ICCCC 2016" />
-      <node id="ASME 2016 11th International Manufacturing Science and Engineering Conference, MSEC 2016" label="ASME 2016 11th International Manufacturing Science and Engineering Conference, MSEC 2016" />
-      <node id="Concurrent Engineering Research and Applications" label="Concurrent Engineering Research and Applications" />
-      <node id="International Journal of Cooperative Information Systems" label="International Journal of Cooperative Information Systems" />
-      <node id="International Journal of Computer Integrated Manufacturing" label="International Journal of Computer Integrated Manufacturing" />
-      <node id="Tehnicki Vjesnik" label="Tehnicki Vjesnik" />
-      <node id="Classical and Quantum Gravity" label="Classical and Quantum Gravity" />
-      <node id="Ingenieria e Investigacion" label="Ingenieria e Investigacion" />
-      <node id="Physical Review D" label="Physical Review D" />
-      <node id="Control Engineering and Applied Informatics" label="Control Engineering and Applied Informatics" />
-      <node id="Security and Communication Networks" label="Security and Communication Networks" />
-      <node id="Innovative Management and Firm Performance: An Interdisciplinary Approach and Cases" label="Innovative Management and Firm Performance: An Interdisciplinary Approach and Cases" />
-      <node id="Proceedings of the Romanian Academy Series A - Mathematics Physics Technical Sciences Information Science" label="Proceedings of the Romanian Academy Series A - Mathematics Physics Technical Sciences Information Science" />
-      <node id="E-Procurement Management for Successful Electronic Government Systems" label="E-Procurement Management for Successful Electronic Government Systems" />
-      <node id="Information" label="Information" />
-      <node id="Computer Security: Intrusion, Detection and Prevention" label="Computer Security: Intrusion, Detection and Prevention" />
-      <node id="ARES 2010 - 5th International Conference on Availability, Reliability, and Security" label="ARES 2010 - 5th International Conference on Availability, Reliability, and Security" />
-      <node id="Proceedings of the 1st International Workshop on Open Source in European Health Care: The Time is Ripe, OSEHC 2009 In Conjunction with BIOSTEC 2009 and the EFMI LIFOSS WG" label="Proceedings of the 1st International Workshop on Open Source in European Health Care: The Time is Ripe, OSEHC 2009 In Conjunction with BIOSTEC 2009 and the EFMI LIFOSS WG" />
-      <node id="Proceedings - Second International Conference on Availability, Reliability and Security, ARES 2007" label="Proceedings - Second International Conference on Availability, Reliability and Security, ARES 2007" />
-      <node id="Journal of Computing and Information Technology" label="Journal of Computing and Information Technology" />
-      <node id="IEEE Multimedia" label="IEEE Multimedia" />
-      <node id="Governance, Communication, and Innovation in a Knowledge Intensive Society" label="Governance, Communication, and Innovation in a Knowledge Intensive Society" />
-      <node id="Computers in Human Behavior" label="Computers in Human Behavior" />
-      <node id="Advancing Information Management through Semantic Web Concepts and Ontologies" label="Advancing Information Management through Semantic Web Concepts and Ontologies" />
-      <node id="Handbook of Research on Serious Games as Educational, Business and Research Tools" label="Handbook of Research on Serious Games as Educational, Business and Research Tools" />
-      <node id="International Journal of Distance Education Technologies" label="International Journal of Distance Education Technologies" />
-      <node id="Behaviour and Information Technology" label="Behaviour and Information Technology" />
-      <node id="IEEE Transactions on Systems, Man, and Cybernetics Part A:Systems and Humans" label="IEEE Transactions on Systems, Man, and Cybernetics Part A:Systems and Humans" />
-      <node id="CSSim 2009 - 1st International Conference on Computational Intelligence, Modelling, and Simulation" label="CSSim 2009 - 1st International Conference on Computational Intelligence, Modelling, and Simulation" />
-      <node id="Proceedings - 2009 2nd Conference on Human System Interactions, HSI '09" label="Proceedings - 2009 2nd Conference on Human System Interactions, HSI '09" />
-      <node id="Proceedings - Frontiers in Education Conference, FIE" label="Proceedings - Frontiers in Education Conference, FIE" />
-      <node id="2008 Conference on Human System Interaction, HSI 2008" label="2008 Conference on Human System Interaction, HSI 2008" />
-      <node id="Proceedings - UKSim 10th International Conference on Computer Modelling and Simulation, EUROSIM/UKSim2008" label="Proceedings - UKSim 10th International Conference on Computer Modelling and Simulation, EUROSIM/UKSim2008" />
-      <node id="Proceedings of the European Conference on Games-based Learning" label="Proceedings of the European Conference on Games-based Learning" />
-      <node id="Proceedings of the International Conference on Autonomous Agents" label="Proceedings of the International Conference on Autonomous Agents" />
-      <node id="Proceedings - 2002 IEEE International Conference on Multimedia and Expo, ICME 2002" label="Proceedings - 2002 IEEE International Conference on Multimedia and Expo, ICME 2002" />
-      <node id="Proceedings of the IEEE/EMBS Region 8 International Conference on Information Technology Applications in Biomedicine, ITAB" label="Proceedings of the IEEE/EMBS Region 8 International Conference on Information Technology Applications in Biomedicine, ITAB" />
-      <node id="Real-Time Imaging" label="Real-Time Imaging" />
-      <node id="IEEE Engineering in Medicine and Biology Magazine" label="IEEE Engineering in Medicine and Biology Magazine" />
-      <node id="Annual International Conference of the IEEE Engineering in Medicine and Biology - Proceedings" label="Annual International Conference of the IEEE Engineering in Medicine and Biology - Proceedings" />
-      <node id="2018 7th International Conference on Computers Communications and Control, ICCCC 2018 - Proceedings" label="2018 7th International Conference on Computers Communications and Control, ICCCC 2018 - Proceedings" />
-      <node id="Software Quality Journal" label="Software Quality Journal" />
-      <node id="Computational Linguistics: Concepts, Methodologies, Tools, and Applications" label="Computational Linguistics: Concepts, Methodologies, Tools, and Applications" />
-      <node id="Peptides" label="Peptides" />
-      <node id="Journal of Sports Medicine and Physical Fitness" label="Journal of Sports Medicine and Physical Fitness" />
-      <node id="Safety Science" label="Safety Science" />
-      <node id="Open Source Solutions for Knowledge Management and Technological Ecosystems" label="Open Source Solutions for Knowledge Management and Technological Ecosystems" />
-      <node id="International Journal of Decision Support System Technology" label="International Journal of Decision Support System Technology" />
-      <node id="The Scientific World Journal" label="The Scientific World Journal" />
-      <node id="2012 International Symposium on Computers in Education, SIIE 2012" label="2012 International Symposium on Computers in Education, SIIE 2012" />
-      <node id="International Journal of Human Capital and Information Technology Professionals" label="International Journal of Human Capital and Information Technology Professionals" />
-      <node id="International Journal of Computational Intelligence Systems" label="International Journal of Computational Intelligence Systems" />
-      <node id="Proceedings of the 10th International Symposium on Operational Research in Slovenia, SOR 2009" label="Proceedings of the 10th International Symposium on Operational Research in Slovenia, SOR 2009" />
-      <node id="Proceedings of the XVII National Conference of Astronomers of Serbia" label="Proceedings of the XVII National Conference of Astronomers of Serbia" />
-      <node id="IASTED International Multi-Conference on Applied Informatics" label="IASTED International Multi-Conference on Applied Informatics" />
-      <node id="Russian Journal of Marine Biology" label="Russian Journal of Marine Biology" />
-      <node id="Transportation Planning and Technology" label="Transportation Planning and Technology" />
-      <node id="Journal of Advanced Transportation" label="Journal of Advanced Transportation" />
-      <node id="Promet - Traffic - Traffico" label="Promet - Traffic - Traffico" />
-      <node id="Information Development" label="Information Development" />
-      <node id="Current Science" label="Current Science" />
-      <node id="Journal of Environmental Protection and Ecology" label="Journal of Environmental Protection and Ecology" />
-      <node id="Profesional de la Informacion" label="Profesional de la Informacion" />
-      <node id="Actual Problems of Economics" label="Actual Problems of Economics" />
-      <node id="Procedia Manufacturing" label="Procedia Manufacturing" />
-      <node id="Ophtalmologie : organe de la Societe francaise d&quot;ophtalmologie" label="Ophtalmologie : organe de la Societe francaise d&quot;ophtalmologie" />
-      <node id="IFAC Proceedings Series" label="IFAC Proceedings Series" />
-      <node id="AGROHEMIJA" label="AGROHEMIJA" />
-      <node id="The International Journal Of Applied Radiation And Isotopes" label="The International Journal Of Applied Radiation And Isotopes" />
-      <node id="International Journal on Artificial Intelligence Tools" label="International Journal on Artificial Intelligence Tools" />
-      <node id="ICEIS 2010 - Proceedings of the 12th International Conference on Enterprise Information Systems" label="ICEIS 2010 - Proceedings of the 12th International Conference on Enterprise Information Systems" />
-      <node id="Computational and Mathematical Methods in Medicine" label="Computational and Mathematical Methods in Medicine" />
-      <node id="World Scientific Proc. Series on Computer Engineering and Information Science 7; Uncertainty Modeling in Knowledge Engineering and Decision Making - Proceedings of the 10th International FLINS Conf." label="World Scientific Proc. Series on Computer Engineering and Information Science 7; Uncertainty Modeling in Knowledge Engineering and Decision Making - Proceedings of the 10th International FLINS Conf." />
-      <node id="Complexity" label="Complexity" />
-      <node id="Enterprise Information Systems" label="Enterprise Information Systems" />
+      <node id="Mathematics in Computer Science" label="Mathematics in Computer Science">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Annals of Mathematics and Artificial Intelligence" label="Annals of Mathematics and Artificial Intelligence">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Journal of Automated Reasoning" label="Journal of Automated Reasoning">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)" label="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Artificial Intelligence Review" label="Artificial Intelligence Review">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="ICGA Journal" label="ICGA Journal">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Logical Methods in Computer Science" label="Logical Methods in Computer Science">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Informatica" label="Informatica">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Journal of Universal Computer Science" label="Journal of Universal Computer Science">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Electronic Notes in Theoretical Computer Science" label="Electronic Notes in Theoretical Computer Science">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Mathematical Logic Quarterly" label="Mathematical Logic Quarterly">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Computer Methods and Programs in Biomedicine" label="Computer Methods and Programs in Biomedicine">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science)" label="Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science)">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Teaching Mathematics and its Applications" label="Teaching Mathematics and its Applications">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Spring Conference on Computer Graphics, SCCG 2003 - Conference Proceedings" label="Spring Conference on Computer Graphics, SCCG 2003 - Conference Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Journal of Experimental and Theoretical Artificial Intelligence" label="Journal of Experimental and Theoretical Artificial Intelligence">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Computing and Informatics" label="Computing and Informatics">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="BMC Bioinformatics" label="BMC Bioinformatics">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Computer Science and Information Systems" label="Computer Science and Information Systems">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Data Mining and Bioinformatics" label="International Journal of Data Mining and Bioinformatics">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the 8th International Conference on Language Resources and Evaluation, LREC 2012" label="Proceedings of the 8th International Conference on Language Resources and Evaluation, LREC 2012">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="KDIR 2010 - Proceedings of the International Conference on Knowledge Discovery and Information Retrieval" label="KDIR 2010 - Proceedings of the International Conference on Knowledge Discovery and Information Retrieval">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Journal of Biomedical Informatics" label="Journal of Biomedical Informatics">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Genomics, Proteomics and Bioinformatics" label="Genomics, Proteomics and Bioinformatics">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Publications de l'Institut Mathematique" label="Publications de l'Institut Mathematique">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Physical Chemistry Chemical Physics" label="Physical Chemistry Chemical Physics">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Linear Algebra and Its Applications" label="Linear Algebra and Its Applications">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Protein Journal" label="Protein Journal">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Journal of Molecular Modeling" label="Journal of Molecular Modeling">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Chemical Industry and Chemical Engineering Quarterly" label="Chemical Industry and Chemical Engineering Quarterly">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Mathematics of Computation" label="Mathematics of Computation">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Applicable Algebra in Engineering, Communications and Computing" label="Applicable Algebra in Engineering, Communications and Computing">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Soft Computing" label="Soft Computing">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="TOP" label="TOP">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Applied Soft Computing Journal" label="Applied Soft Computing Journal">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Clinical and Experimental Medicine" label="International Journal of Clinical and Experimental Medicine">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Electronic Notes in Discrete Mathematics" label="Electronic Notes in Discrete Mathematics">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="ACM International Conference Proceeding Series" label="ACM International Conference Proceeding Series">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="MIPRO 2012 - 35th International Convention on Information and Communication Technology, Electronics and Microelectronics - Proceedings" label="MIPRO 2012 - 35th International Convention on Information and Communication Technology, Electronics and Microelectronics - Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Yugoslav Journal of Operations Research" label="Yugoslav Journal of Operations Research">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Kragujevac Journal of Mathematics" label="Kragujevac Journal of Mathematics">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Advances in Intelligent and Soft Computing" label="Advances in Intelligent and Soft Computing">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="European Journal of Operational Research" label="European Journal of Operational Research">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="RAIRO - Operations Research" label="RAIRO - Operations Research">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Journal of B.U.ON." label="Journal of B.U.ON.">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Plant Cell, Tissue and Organ Culture" label="Plant Cell, Tissue and Organ Culture">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the IX Bulgarian-Serbian Astronomical Conference: Astroinformatics, BSACA 2014" label="Proceedings of the IX Bulgarian-Serbian Astronomical Conference: Astroinformatics, BSACA 2014">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Computer Languages, Systems and Structures" label="Computer Languages, Systems and Structures">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Constraints" label="Constraints">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Theoretical Computer Science" label="Theoretical Computer Science">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="SISY 2005 - 3rd Serbian-Hungarian Joint Symposium on Intelligent Systems" label="SISY 2005 - 3rd Serbian-Hungarian Joint Symposium on Intelligent Systems">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Archive of Oncology" label="Archive of Oncology">
+        <attvalues>
+          <attvalue for="0" value="Review" />
+        </attvalues>
+      </node>
+      <node id="Education and Information Technologies" label="Education and Information Technologies">
+        <attvalues>
+          <attvalue for="0" value="Article in Press" />
+        </attvalues>
+      </node>
+      <node id="Information Technology and Control" label="Information Technology and Control">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="International Transactions in Operational Research" label="International Transactions in Operational Research">
+        <attvalues>
+          <attvalue for="0" value="Article in Press" />
+        </attvalues>
+      </node>
+      <node id="Computers and Education" label="Computers and Education">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Filomat" label="Filomat">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Simulation Modelling" label="International Journal of Simulation Modelling">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Acta Polytechnica Hungarica" label="Acta Polytechnica Hungarica">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Annals of Operations Research" label="Annals of Operations Research">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Applied and Computational Mathematics" label="Applied and Computational Mathematics">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="SISY 2014 - IEEE 12th International Symposium on Intelligent Systems and Informatics, Proceedings" label="SISY 2014 - IEEE 12th International Symposium on Intelligent Systems and Informatics, Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Informatica (Netherlands)" label="Informatica (Netherlands)">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="SISY 2013 - IEEE 11th International Symposium on Intelligent Systems and Informatics, Proceedings" label="SISY 2013 - IEEE 11th International Symposium on Intelligent Systems and Informatics, Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Journal of Chemometrics" label="Journal of Chemometrics">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="2012 IEEE 10th Jubilee International Symposium on Intelligent Systems and Informatics, SISY 2012" label="2012 IEEE 10th Jubilee International Symposium on Intelligent Systems and Informatics, SISY 2012">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="WSEAS Transactions on Computers" label="WSEAS Transactions on Computers">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="SISY 2006 - 4th Serbian-Hungarian Joint Symposium on Intelligent Systems" label="SISY 2006 - 4th Serbian-Hungarian Joint Symposium on Intelligent Systems">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Journal of Computational Biology" label="Journal of Computational Biology">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Match" label="Match">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Journal of Immunological Methods" label="Journal of Immunological Methods">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Intelligent Data Analysis" label="Intelligent Data Analysis">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="CEUR Workshop Proceedings" label="CEUR Workshop Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Zivot Umjetnosti" label="Zivot Umjetnosti">
+        <attvalues>
+          <attvalue for="0" value="Note" />
+        </attvalues>
+      </node>
+      <node id="Journal of Multiple-Valued Logic and Soft Computing" label="Journal of Multiple-Valued Logic and Soft Computing">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Kybernetes" label="Kybernetes">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Computers and Geosciences" label="Computers and Geosciences">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Nonlinear Dynamics" label="Nonlinear Dynamics">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Information and Software Technology" label="Information and Software Technology">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Applied Earth Observation and Geoinformation" label="International Journal of Applied Earth Observation and Geoinformation">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="ICSOFT 2008 - Proceedings of the 3rd International Conference on Software and Data Technologies" label="ICSOFT 2008 - Proceedings of the 3rd International Conference on Software and Data Technologies">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Electronic Library" label="Electronic Library">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Advances in Computers" label="Advances in Computers">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="GWC 2014: Proceedings of the 7th Global Wordnet Conference" label="GWC 2014: Proceedings of the 7th Global Wordnet Conference">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="OR Spectrum" label="OR Spectrum">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Optimization Letters" label="Optimization Letters">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="European Journal of Industrial Engineering" label="European Journal of Industrial Engineering">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IISA 2015 - 6th International Conference on Information, Intelligence, Systems and Applications" label="IISA 2015 - 6th International Conference on Information, Intelligence, Systems and Applications">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Big Data Management, Technologies, and Applications" label="Big Data Management, Technologies, and Applications">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the 2012 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2012" label="Proceedings of the 2012 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2012">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="IEEE International Conference on Consumer Electronics - Berlin, ICCE-Berlin" label="IEEE International Conference on Consumer Electronics - Berlin, ICCE-Berlin">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="24th Telecommunications Forum, TELFOR 2016" label="24th Telecommunications Forum, TELFOR 2016">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Vojnosanitetski Pregled" label="Vojnosanitetski Pregled">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Medical Ultrasonography" label="Medical Ultrasonography">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Acta Clinica Croatica" label="Acta Clinica Croatica">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Journal of Gastrointestinal and Liver Diseases" label="Journal of Gastrointestinal and Liver Diseases">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="2017 25th Telecommunications Forum, TELFOR 2017 - Proceedings" label="2017 25th Telecommunications Forum, TELFOR 2017 - Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="FME Transactions" label="FME Transactions">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Telfor Journal" label="Telfor Journal">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="2016 13th Symposium on Neural Networks and Applications, NEUREL 2016" label="2016 13th Symposium on Neural Networks and Applications, NEUREL 2016">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the 10th International Conference on Language Resources and Evaluation, LREC 2016" label="Proceedings of the 10th International Conference on Language Resources and Evaluation, LREC 2016">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Multimedia Tools and Applications" label="Multimedia Tools and Applications">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="2014 22nd Telecommunications Forum, TELFOR 2014 - Proceedings of Papers" label="2014 22nd Telecommunications Forum, TELFOR 2014 - Proceedings of Papers">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Computer Applications in Engineering Education" label="Computer Applications in Engineering Education">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Engineering Education" label="International Journal of Engineering Education">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IEEE Global Engineering Education Conference, EDUCON" label="IEEE Global Engineering Education Conference, EDUCON">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Hepato-Gastroenterology" label="Hepato-Gastroenterology">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Intelligent Systems" label="International Journal of Intelligent Systems">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Decision Support Systems" label="Decision Support Systems">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IEEE AFRICON Conference" label="IEEE AFRICON Conference">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="IEEE Transactions on Education" label="IEEE Transactions on Education">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="2012 20th Telecommunications Forum, TELFOR 2012 - Proceedings" label="2012 20th Telecommunications Forum, TELFOR 2012 - Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="IS'2012 - 2012 6th IEEE International Conference Intelligent Systems, Proceedings" label="IS'2012 - 2012 6th IEEE International Conference Intelligent Systems, Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="2012 IEEE International Conference on Industrial Technology, ICIT 2012, Proceedings" label="2012 IEEE International Conference on Industrial Technology, ICIT 2012, Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - 2012 IEEE 19th International Conference and Workshops on Engineering of Computer-Based Systems, ECBS 2012" label="Proceedings - 2012 IEEE 19th International Conference and Workshops on Engineering of Computer-Based Systems, ECBS 2012">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="2011 19th Telecommunications Forum, TELFOR 2011 - Proceedings of Papers" label="2011 19th Telecommunications Forum, TELFOR 2011 - Proceedings of Papers">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - 2011 2nd Eastern European Regional Conference on the Engineering of Computer Based Systems, ECBS-EERC 2011" label="Proceedings - 2011 2nd Eastern European Regional Conference on the Engineering of Computer Based Systems, ECBS-EERC 2011">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Electrical Engineering Education" label="International Journal of Electrical Engineering Education">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Computer Journal" label="Computer Journal">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the 2002 Workshop on Computer Architecture Education, WCAE 2002 - Held in conjunction with the 29th International Symposium on Computer Architecture" label="Proceedings of the 2002 Workshop on Computer Architecture Education, WCAE 2002 - Held in conjunction with the 29th International Symposium on Computer Architecture">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="MODELSWARD 2017 - Proceedings of the 5th International Conference on Model-Driven Engineering and Software Development" label="MODELSWARD 2017 - Proceedings of the 5th International Conference on Model-Driven Engineering and Software Development">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Journal of Electrical Engineering" label="Journal of Electrical Engineering">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Software and Systems Modeling" label="Software and Systems Modeling">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="MODELSWARD 2015 - 3rd International Conference on Model-Driven Engineering and Software Development, Proceedings" label="MODELSWARD 2015 - 3rd International Conference on Model-Driven Engineering and Software Development, Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Human Computer Studies" label="International Journal of Human Computer Studies">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IEEE Software" label="IEEE Software">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IEEE Transactions on Software Engineering" label="IEEE Transactions on Software Engineering">
+        <attvalues>
+          <attvalue for="0" value="Erratum" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Parallel Programming" label="International Journal of Parallel Programming">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the Hawaii International Conference on System Sciences" label="Proceedings of the Hawaii International Conference on System Sciences">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="SIGPLAN Notices (ACM Special Interest Group on Programming Languages)" label="SIGPLAN Notices (ACM Special Interest Group on Programming Languages)">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the International Parallel Processing Symposium, IPPS" label="Proceedings of the International Parallel Processing Symposium, IPPS">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the 1st Merged International Parallel Processing Symposium and Symposium on Parallel and Distributed Processing, IPPS/SPDP 1998" label="Proceedings of the 1st Merged International Parallel Processing Symposium and Symposium on Parallel and Distributed Processing, IPPS/SPDP 1998">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="IET Computers and Digital Techniques" label="IET Computers and Digital Techniques">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Journal of Supercomputing" label="Journal of Supercomputing">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Studies in Computational Intelligence" label="Studies in Computational Intelligence">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IEEE Transactions on Learning Technologies" label="IEEE Transactions on Learning Technologies">
+        <attvalues>
+          <attvalue for="0" value="Editorial" />
+        </attvalues>
+      </node>
+      <node id="Journal of Aerospace Information Systems" label="Journal of Aerospace Information Systems">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="2013 11th International Conference on Telecommunications in Modern Satellite, Cable and Broadcasting Services, TELSIKS 2013" label="2013 11th International Conference on Telecommunications in Modern Satellite, Cable and Broadcasting Services, TELSIKS 2013">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Journal of Parallel and Distributed Computing" label="Journal of Parallel and Distributed Computing">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the Workshop on Advanced Visual Interfaces AVI" label="Proceedings of the Workshop on Advanced Visual Interfaces AVI">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="2011 10th International Conference on Telecommunications in Modern Satellite, Cable and Broadcasting Services, TELSIKS 2011 - Proceedings of Papers" label="2011 10th International Conference on Telecommunications in Modern Satellite, Cable and Broadcasting Services, TELSIKS 2011 - Proceedings of Papers">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - 36th EUROMICRO Conference on Software Engineering and Advanced Applications, SEAA 2010" label="Proceedings - 36th EUROMICRO Conference on Software Engineering and Advanced Applications, SEAA 2010">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference 2009, DETC2009" label="Proceedings of the ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference 2009, DETC2009">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the ASME Design Engineering Technical Conference" label="Proceedings of the ASME Design Engineering Technical Conference">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Dr. Dobb's Journal" label="Dr. Dobb's Journal">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Future Generation Computer Systems" label="Future Generation Computer Systems">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Neural, Parallel and Scientific Computations" label="Neural, Parallel and Scientific Computations">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Studies in Health Technology and Informatics" label="Studies in Health Technology and Informatics">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="IEEE Transactions on Parallel and Distributed Systems" label="IEEE Transactions on Parallel and Distributed Systems">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Information Processing Letters" label="Information Processing Letters">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Serbian Journal of Electrical Engineering" label="Serbian Journal of Electrical Engineering">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Software Engineering and Knowledge Engineering" label="International Journal of Software Engineering and Knowledge Engineering">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IEEE Access" label="IEEE Access">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of ISSI 2015 Istanbul: 15th International Society of Scientometrics and Informetrics Conference" label="Proceedings of ISSI 2015 Istanbul: 15th International Society of Scientometrics and Informetrics Conference">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Ad-Hoc and Sensor Wireless Networks" label="Ad-Hoc and Sensor Wireless Networks">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="2013 21st Telecommunications Forum Telfor, TELFOR 2013 - Proceedings of Papers" label="2013 21st Telecommunications Forum Telfor, TELFOR 2013 - Proceedings of Papers">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="IEEE Annals of the History of Computing" label="IEEE Annals of the History of Computing">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Computer Communications" label="Computer Communications">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="ICEMT 2010 - 2010 International Conference on Education and Management Technology, Proceedings" label="ICEMT 2010 - 2010 International Conference on Education and Management Technology, Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - Frontiers in Education Conference" label="Proceedings - Frontiers in Education Conference">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IEEE International Workshop on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems - Proceedings" label="IEEE International Workshop on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems - Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - IEEE Computer Society's Annual International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunications Systems, MASCOTS" label="Proceedings - IEEE Computer Society's Annual International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunications Systems, MASCOTS">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the International Conference on Microelectronics" label="Proceedings of the International Conference on Microelectronics">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Conference Proceedings of the EUROMICRO" label="Conference Proceedings of the EUROMICRO">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the Mediterranean Electrotechnical Conference - MELECON" label="Proceedings of the Mediterranean Electrotechnical Conference - MELECON">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="IEEE Parallel and Distributed Technology" label="IEEE Parallel and Distributed Technology">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Microprocessing and Microprogramming" label="Microprocessing and Microprogramming">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Parallel Computing" label="Parallel Computing">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="2017 Zooming Innovation in Consumer Electronics International Conference: Galvanize Your Creativity, ZINC 2017" label="2017 Zooming Innovation in Consumer Electronics International Conference: Galvanize Your Creativity, ZINC 2017">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="ACM Computing Surveys" label="ACM Computing Surveys">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="2015 23rd Telecommunications Forum, TELFOR 2015" label="2015 23rd Telecommunications Forum, TELFOR 2015">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Concurrency Computation" label="Concurrency Computation">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - IEEE 7th International Conference on Software Testing, Verification and Validation, ICST 2014" label="Proceedings - IEEE 7th International Conference on Software Testing, Verification and Validation, ICST 2014">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Computers and Electrical Engineering" label="Computers and Electrical Engineering">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - 2013 International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation, IC-SAMOS 2013" label="Proceedings - 2013 International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation, IC-SAMOS 2013">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="ECBS-EERC 2009 - 1st Eastern European Regional Conference on the Engineering of Computer-Based Systems: Setting New ECBS Frontiers." label="ECBS-EERC 2009 - 1st Eastern European Regional Conference on the Engineering of Computer-Based Systems: Setting New ECBS Frontiers.">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="EUROCON 2007 - The International Conference on Computer as a Tool" label="EUROCON 2007 - The International Conference on Computer as a Tool">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="EUROCON 2005 - The International Conference on Computer as a Tool" label="EUROCON 2005 - The International Conference on Computer as a Tool">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Canadian Conference on Electrical and Computer Engineering" label="Canadian Conference on Electrical and Computer Engineering">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Electromagnetic Biology and Medicine" label="Electromagnetic Biology and Medicine">
+        <attvalues>
+          <attvalue for="0" value="Review" />
+        </attvalues>
+      </node>
+      <node id="Microprocessors and Microsystems" label="Microprocessors and Microsystems">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Computers and Applications" label="International Journal of Computers and Applications">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Informatica (Ljubljana)" label="Informatica (Ljubljana)">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Journal of Systems Architecture" label="Journal of Systems Architecture">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IEEE Region 10's Annual International Conference, Proceedings" label="IEEE Region 10's Annual International Conference, Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="IEEE Micro" label="IEEE Micro">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Revue Roumaine des Sciences Techniques Serie Electrotechnique et Energetique" label="Revue Roumaine des Sciences Techniques Serie Electrotechnique et Energetique">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Advanced Materials Research" label="Advanced Materials Research">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="IEEE Transactions on Information Technology in Biomedicine" label="IEEE Transactions on Information Technology in Biomedicine">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the Hawaii International Conference on System Science" label="Proceedings of the Hawaii International Conference on System Science">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="International Journal on Semantic Web and Information Systems" label="International Journal on Semantic Web and Information Systems">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Aviation and Airport Security: Management, Improvement Strategies and Future Challenges" label="Aviation and Airport Security: Management, Improvement Strategies and Future Challenges">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="Journal of Web Semantics" label="Journal of Web Semantics">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Energy and Buildings" label="Energy and Buildings">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Advanced Engineering Informatics" label="Advanced Engineering Informatics">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="2015 IEEE Eindhoven PowerTech, PowerTech 2015" label="2015 IEEE Eindhoven PowerTech, PowerTech 2015">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Conference Record - IEEE Instrumentation and Measurement Technology Conference" label="Conference Record - IEEE Instrumentation and Measurement Technology Conference">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - International Workshop on Database and Expert Systems Applications, DEXA" label="Proceedings - International Workshop on Database and Expert Systems Applications, DEXA">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Information Processing and Management" label="Information Processing and Management">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Communications in Computer and Information Science" label="Communications in Computer and Information Science">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Information Resources Management Journal" label="Information Resources Management Journal">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Renewable and Sustainable Energy Reviews" label="Renewable and Sustainable Energy Reviews">
+        <attvalues>
+          <attvalue for="0" value="Review" />
+        </attvalues>
+      </node>
+      <node id="Expert Systems with Applications" label="Expert Systems with Applications">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of I-KNOW 2009 - 9th International Conference on Knowledge Management and Knowledge Technologies and Proceedings of I-SEMANTICS 2009 - 5th International Conference on Semantic Systems" label="Proceedings of I-KNOW 2009 - 9th International Conference on Knowledge Management and Knowledge Technologies and Proceedings of I-SEMANTICS 2009 - 5th International Conference on Semantic Systems">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Social, Managerial, and Organizational Dimensions of Enterprise Information Systems" label="Social, Managerial, and Organizational Dimensions of Enterprise Information Systems">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="Proc. 9th WSEAS Int. Conf. Simulation, Modelling and Optimization, SMO '09, 5th WSEAS Int. Symp. Grid Computing, Proc. 5th WSEAS Int. Symp. Digital Libraries, Proc. 5th WSEAS Int. Symp. Data Mining" label="Proc. 9th WSEAS Int. Conf. Simulation, Modelling and Optimization, SMO '09, 5th WSEAS Int. Symp. Grid Computing, Proc. 5th WSEAS Int. Symp. Digital Libraries, Proc. 5th WSEAS Int. Symp. Data Mining">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Enterprise Information Systems" label="International Journal of Enterprise Information Systems">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IT Professional" label="IT Professional">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the IADIS International Conference WWW/Internet 2009, ICWI 2009" label="Proceedings of the IADIS International Conference WWW/Internet 2009, ICWI 2009">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="2008 International Conference on Computational Intelligence for Modelling Control and Automation, CIMCA 2008" label="2008 International Conference on Computational Intelligence for Modelling Control and Automation, CIMCA 2008">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="WSEAS Transactions on Information Science and Applications" label="WSEAS Transactions on Information Science and Applications">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Water Research" label="Water Research">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Adaptive Technologies and Business Integration: Social, Managerial and Organizational Dimensions" label="Adaptive Technologies and Business Integration: Social, Managerial and Organizational Dimensions">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="Journal of Hazardous Materials" label="Journal of Hazardous Materials">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Journal of Hydroinformatics" label="Journal of Hydroinformatics">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Journal of Information and Knowledge Management" label="Journal of Information and Knowledge Management">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the IASTED International Conference on Applied Simulation and Modelling" label="Proceedings of the IASTED International Conference on Applied Simulation and Modelling">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="ICEIS 2003 - Proceedings of the 5th International Conference on Enterprise Information Systems" label="ICEIS 2003 - Proceedings of the 5th International Conference on Enterprise Information Systems">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Journal of Systems and Information Technology" label="Journal of Systems and Information Technology">
+        <attvalues>
+          <attvalue for="0" value="Review" />
+        </attvalues>
+      </node>
+      <node id="International Symposium on Technology and Society" label="International Symposium on Technology and Society">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Engineering Applications of Artificial Intelligence" label="Engineering Applications of Artificial Intelligence">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Expert Systems" label="Expert Systems">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Computers in Industry" label="Computers in Industry">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Mathematics and Computers in Simulation" label="Mathematics and Computers in Simulation">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Applications of Artificial Intelligence in Engineering" label="Applications of Artificial Intelligence in Engineering">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="International IEEE/IAS Conference on Industrial Automation and Control: Emerging Technologies, Proceedings" label="International IEEE/IAS Conference on Industrial Automation and Control: Emerging Technologies, Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="IEEE expert" label="IEEE expert">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IEEE Transactions on Knowledge and Data Engineering" label="IEEE Transactions on Knowledge and Data Engineering">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Robotics and Computer Integrated Manufacturing" label="Robotics and Computer Integrated Manufacturing">
+        <attvalues>
+          <attvalue for="0" value="Editorial" />
+        </attvalues>
+      </node>
+      <node id="Expert Systems With Applications" label="Expert Systems With Applications">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the Euromicro Conference on Software Maintenance and Reengineering, CSMR" label="Proceedings of the Euromicro Conference on Software Maintenance and Reengineering, CSMR">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IET Software" label="IET Software">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the ACM Symposium on Applied Computing" label="Proceedings of the ACM Symposium on Applied Computing">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="2017 40th International Convention on Information and Communication Technology, Electronics and Microelectronics, MIPRO 2017 - Proceedings" label="2017 40th International Convention on Information and Communication Technology, Electronics and Microelectronics, MIPRO 2017 - Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="GeoInformatica" label="GeoInformatica">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Journal of Computer Science and Technology" label="Journal of Computer Science and Technology">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the IEEE Symposium on Reliable Distributed Systems" label="Proceedings of the IEEE Symposium on Reliable Distributed Systems">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the IEEE" label="Proceedings of the IEEE">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Computer" label="Computer">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="2016 Zooming Innovation in Consumer Electronics International Conference, ZINC 2016" label="2016 Zooming Innovation in Consumer Electronics International Conference, ZINC 2016">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Digest of Technical Papers - IEEE International Conference on Consumer Electronics" label="Digest of Technical Papers - IEEE International Conference on Consumer Electronics">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings 2013 IEEE 3rd International Conference on Consumer Electronics - Berlin, ICCE-Berlin 2013" label="Proceedings 2013 IEEE 3rd International Conference on Consumer Electronics - Berlin, ICCE-Berlin 2013">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Computer Networks" label="Computer Networks">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="1st IEEE Conference on Network Softwarization: Software-Defined Infrastructures for Networks, Clouds, IoT and Services, NETSOFT 2015" label="1st IEEE Conference on Network Softwarization: Software-Defined Infrastructures for Networks, Clouds, IoT and Services, NETSOFT 2015">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Network Management" label="International Journal of Network Management">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="TERENA Networking Conference 2010: Living the Network Life, TNC 2010" label="TERENA Networking Conference 2010: Living the Network Life, TNC 2010">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="16th Networking in Education and Research RoEduNet International Conference, RoEduNet 2017 - Proceedings" label="16th Networking in Education and Research RoEduNet International Conference, RoEduNet 2017 - Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - 2017 IEEE 13th International Conference on Intelligent Computer Communication and Processing, ICCP 2017" label="Proceedings - 2017 IEEE 13th International Conference on Intelligent Computer Communication and Processing, ICCP 2017">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Elektronika ir Elektrotechnika" label="Elektronika ir Elektrotechnika">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="10th IFIP/IEEE International Symposium on Integrated Network Management 2007, IM '07" label="10th IFIP/IEEE International Symposium on Integrated Network Management 2007, IM '07">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the IEEE International Conference on Control Applications" label="Proceedings of the IEEE International Conference on Control Applications">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Srpski Arhiv za Celokupno Lekarstvo" label="Srpski Arhiv za Celokupno Lekarstvo">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Journal of Big Data" label="Journal of Big Data">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Mathematical Problems in Engineering" label="Mathematical Problems in Engineering">
+        <attvalues>
+          <attvalue for="0" value="Review" />
+        </attvalues>
+      </node>
+      <node id="IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems" label="IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Information Systems and e-Business Management" label="Information Systems and e-Business Management">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="ASME 2017 12th International Manufacturing Science and Engineering Conference, MSEC 2017 collocated with the JSME/ASME 2017 6th International Conference on Materials and Processing" label="ASME 2017 12th International Manufacturing Science and Engineering Conference, MSEC 2017 collocated with the JSME/ASME 2017 6th International Conference on Materials and Processing">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the I-ESA Conferences" label="Proceedings of the I-ESA Conferences">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Industrial Engineering : Theory Applications and Practice" label="International Journal of Industrial Engineering : Theory Applications and Practice">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the 2nd International Workshop on Future Trends of Model-Driven Development, FTMDD 2010, in Conjunction with ICEIS 2010" label="Proceedings of the 2nd International Workshop on Future Trends of Model-Driven Development, FTMDD 2010, in Conjunction with ICEIS 2010">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Technics Technologies Education Management" label="Technics Technologies Education Management">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Manufacturing Technology and Management" label="International Journal of Manufacturing Technology and Management">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Handbook of Research on High Performance and Cloud Computing in Scientific Research and Education" label="Handbook of Research on High Performance and Cloud Computing in Scientific Research and Education">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - 2014 9th International Conference on the Quality of Information and Communications Technology, QUATIC 2014" label="Proceedings - 2014 9th International Conference on the Quality of Information and Communications Technology, QUATIC 2014">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - 2012 8th International Conference on the Quality of Information and Communications Technology, QUATIC 2012" label="Proceedings - 2012 8th International Conference on the Quality of Information and Communications Technology, QUATIC 2012">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - 2011 34th IEEE Software Engineering Workshop, SEW 2011" label="Proceedings - 2011 34th IEEE Software Engineering Workshop, SEW 2011">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="2011 7th Central and Eastern European Software Engineering Conference, CEE-SECR 2011" label="2011 7th Central and Eastern European Software Engineering Conference, CEE-SECR 2011">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the IASTED International Conference on Artificial Intelligence and Soft Computing, ASC 2011" label="Proceedings of the IASTED International Conference on Artificial Intelligence and Soft Computing, ASC 2011">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Information Systems Development: Towards a Service Provision Society" label="Information Systems Development: Towards a Service Provision Society">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="International Conference on Software Engineering Theory and Practice 2007, SETP 2007" label="International Conference on Software Engineering Theory and Practice 2007, SETP 2007">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Progress in Education" label="Progress in Education">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="British Journal of Educational Technology" label="British Journal of Educational Technology">
+        <attvalues>
+          <attvalue for="0" value="Article in Press" />
+        </attvalues>
+      </node>
+      <node id="IFMBE Proceedings" label="IFMBE Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="IEEE Transactions on Human-Machine Systems" label="IEEE Transactions on Human-Machine Systems">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Artificial Intelligence in Education" label="International Journal of Artificial Intelligence in Education">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Educational Technology Research and Development" label="Educational Technology Research and Development">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Technology, Knowledge and Learning" label="Technology, Knowledge and Learning">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="eLmL - International Conference on Mobile, Hybrid, and On-line Learning" label="eLmL - International Conference on Mobile, Hybrid, and On-line Learning">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Educational Technology and Society" label="Educational Technology and Society">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Advances in Intelligent Systems and Computing" label="Advances in Intelligent Systems and Computing">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Knowledge Management Research and Practice" label="Knowledge Management Research and Practice">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IEEE Transactions on Affective Computing" label="IEEE Transactions on Affective Computing">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the 5th India Software Engineering Conference, ISEC'12" label="Proceedings of the 5th India Software Engineering Conference, ISEC'12">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="IEEE Transactions on Systems, Man and Cybernetics Part C: Applications and Reviews" label="IEEE Transactions on Systems, Man and Cybernetics Part C: Applications and Reviews">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Interactive Learning Environments" label="Interactive Learning Environments">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Knowledge Management and E-Learning" label="Knowledge Management and E-Learning">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Social Science Computer Review" label="Social Science Computer Review">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Program" label="Program">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="ISEC'10 - Proceedings of the 2010 India Software Engineering Conference" label="ISEC'10 - Proceedings of the 2010 India Software Engineering Conference">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Handbook of Research on Digital Libraries: Design, Development, and Impact" label="Handbook of Research on Digital Libraries: Design, Development, and Impact">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="Model Driven Engineering and Ontology Development" label="Model Driven Engineering and Ontology Development">
+        <attvalues>
+          <attvalue for="0" value="Book" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the 17th International Conference on Computers in Education, ICCE 2009" label="Proceedings of the 17th International Conference on Computers in Education, ICCE 2009">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the 2009 Conference of the Center for Advanced Studies on Collaborative Research, CASCON '09" label="Proceedings of the 2009 Conference of the Center for Advanced Studies on Collaborative Research, CASCON '09">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="KMIS 2009 - 1st International Conference on Knowledge Management and Information Sharing, Proceedings" label="KMIS 2009 - 1st International Conference on Knowledge Management and Information Sharing, Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Software - Practice and Experience" label="Software - Practice and Experience">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Journal of Emerging Technologies in Web Intelligence" label="Journal of Emerging Technologies in Web Intelligence">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="The Semantic Web for Knowledge and Data Management: Technologies and Practices" label="The Semantic Web for Knowledge and Data Management: Technologies and Practices">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="Technology Enhanced Learning: Best Practices" label="Technology Enhanced Learning: Best Practices">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Information and Communication Technology" label="International Journal of Information and Communication Technology">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Continuing Engineering Education and Life-Long Learning" label="International Journal of Continuing Engineering Education and Life-Long Learning">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Electronic Communications of the EASST" label="Electronic Communications of the EASST">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the IASTED International Conference on Artificial Intelligence and Applications, AIA 2007" label="Proceedings of the IASTED International Conference on Artificial Intelligence and Applications, AIA 2007">
+        <attvalues>
+          <attvalue for="0" value="Editorial" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - The 7th IEEE International Conference on Advanced Learning Technologies, ICALT 2007" label="Proceedings - The 7th IEEE International Conference on Advanced Learning Technologies, ICALT 2007">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - IEEE International Enterprise Distributed Object Computing Workshop, EDOC" label="Proceedings - IEEE International Enterprise Distributed Object Computing Workshop, EDOC">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Web Engineering and Technology" label="International Journal of Web Engineering and Technology">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IEEE Internet Computing" label="IEEE Internet Computing">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Welding in the World" label="Welding in the World">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="International Journal on Software Tools for Technology Transfer" label="International Journal on Software Tools for Technology Transfer">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Knowledge and Learning" label="International Journal of Knowledge and Learning">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IEEE Intelligent Systems" label="IEEE Intelligent Systems">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the 15th International Conference on World Wide Web" label="Proceedings of the 15th International Conference on World Wide Web">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Model Driven Architecture and Ontology Development" label="Model Driven Architecture and Ontology Development">
+        <attvalues>
+          <attvalue for="0" value="Book" />
+        </attvalues>
+      </node>
+      <node id="IFIP International Federation for Information Processing" label="IFIP International Federation for Information Processing">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Knowledge-Based Systems" label="Knowledge-Based Systems">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Web Based Communities" label="International Journal of Web Based Communities">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Journal of Object Technology" label="Journal of Object Technology">
+        <attvalues>
+          <attvalue for="0" value="Review" />
+        </attvalues>
+      </node>
+      <node id="Semantic Web and Information Systems" label="Semantic Web and Information Systems">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Encyclopedia of Human Computer Interaction" label="Encyclopedia of Human Computer Interaction">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - 5th IEEE International Conference on Advanced Learning Technologies, ICALT 2005" label="Proceedings - 5th IEEE International Conference on Advanced Learning Technologies, ICALT 2005">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="MIPRO 2005 - 28th International Convention Proceedings: Microelectronics, Electronics and Electronic Technologies MEET, Hypermedia and Grid Systems HGS" label="MIPRO 2005 - 28th International Convention Proceedings: Microelectronics, Electronics and Electronic Technologies MEET, Hypermedia and Grid Systems HGS">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Intelligent Learning Infrastructure for Knowledge Intensive Organizations: A Semantic Web Perspective" label="Intelligent Learning Infrastructure for Knowledge Intensive Organizations: A Semantic Web Perspective">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="Lecture Notes in Computer Science" label="Lecture Notes in Computer Science">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Handbook of Software Engineering and Knowledge Engineering: Vol 3: Recent Advances" label="Handbook of Software Engineering and Knowledge Engineering: Vol 3: Recent Advances">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="2004 2nd International IEEE Conference 'Intelligent Systems' - Proceedings" label="2004 2nd International IEEE Conference 'Intelligent Systems' - Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - IEEE International Conference on Advanced Learning Technologies, ICALT 2004" label="Proceedings - IEEE International Conference on Advanced Learning Technologies, ICALT 2004">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Thirteenth International World Wide Web Conference Proceedings, WWW2004" label="Thirteenth International World Wide Web Conference Proceedings, WWW2004">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the 13th International World Wide Web Conference on Alternate Track, Papers and Posters, WWW Alt. 2004" label="Proceedings of the 13th International World Wide Web Conference on Alternate Track, Papers and Posters, WWW Alt. 2004">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Fuzzy Sets and Systems" label="Fuzzy Sets and Systems">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IFIP Advances in Information and Communication Technology" label="IFIP Advances in Information and Communication Technology">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - 3rd IEEE International Conference on Advanced Learning Technologies, ICALT 2003" label="Proceedings - 3rd IEEE International Conference on Advanced Learning Technologies, ICALT 2003">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Communications of the ACM" label="Communications of the ACM">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - International Conference on Computers in Education, ICCE 2002" label="Proceedings - International Conference on Computers in Education, ICCE 2002">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Integrated Computer-Aided Engineering" label="Integrated Computer-Aided Engineering">
+        <attvalues>
+          <attvalue for="0" value="Review" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - International Workshop on Advanced Learning Technologies: Advanced Learning Technology: Design and Development Issues, IWALT 2000" label="Proceedings - International Workshop on Advanced Learning Technologies: Advanced Learning Technology: Design and Development Issues, IWALT 2000">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="SIGCSE Bulletin (Association for Computing Machinery, Special Interest Group on Computer Science Education)" label="SIGCSE Bulletin (Association for Computing Machinery, Special Interest Group on Computer Science Education)">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Poceedings of the Conference on Integrating Technology into Computer Science Education, ITiCSE" label="Poceedings of the Conference on Integrating Technology into Computer Science Education, ITiCSE">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the IEEE International Conference on Systems, Man and Cybernetics" label="Proceedings of the IEEE International Conference on Systems, Man and Cybernetics">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Srpski arhiv za celokupno lekarstvo" label="Srpski arhiv za celokupno lekarstvo">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Vojnosanitetski pregled. Military-medical and pharmaceutical review" label="Vojnosanitetski pregled. Military-medical and pharmaceutical review">
+        <attvalues>
+          <attvalue for="0" value="Review" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Flexible Manufacturing Systems" label="International Journal of Flexible Manufacturing Systems">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Strategy Tools as Symbolic Objects in Managerial Language Games: Toward a Radical Constructivist Process Perspective" label="Strategy Tools as Symbolic Objects in Managerial Language Games: Toward a Radical Constructivist Process Perspective">
+        <attvalues>
+          <attvalue for="0" value="Book" />
+        </attvalues>
+      </node>
+      <node id="Science and Engineering Ethics" label="Science and Engineering Ethics">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="ICSTW 2010 - 3rd International Conference on Software Testing, Verification, and Validation Workshops" label="ICSTW 2010 - 3rd International Conference on Software Testing, Verification, and Validation Workshops">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Infusionstherapie und Transfusionsmedizin" label="Infusionstherapie und Transfusionsmedizin">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Australasian Journal of Educational Technology" label="Australasian Journal of Educational Technology">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Journal of Biomedical Semantics" label="Journal of Biomedical Semantics">
+        <attvalues>
+          <attvalue for="0" value="Review" />
+        </attvalues>
+      </node>
+      <node id="Internet and Higher Education" label="Internet and Higher Education">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Knowledge Engineering Review" label="Knowledge Engineering Review">
+        <attvalues>
+          <attvalue for="0" value="Article in Press" />
+        </attvalues>
+      </node>
+      <node id="2016 5th Mediterranean Conference on Embedded Computing, MECO 2016 - Including ECyPS 2016, BIOENG.MED 2016, MECO: Student Challenge 2016" label="2016 5th Mediterranean Conference on Embedded Computing, MECO 2016 - Including ECyPS 2016, BIOENG.MED 2016, MECO: Student Challenge 2016">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - International Conference on Tools with Artificial Intelligence, ICTAI" label="Proceedings - International Conference on Tools with Artificial Intelligence, ICTAI">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Semantic Web" label="Semantic Web">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the 7th International Conference on Knowledge Capture: &quot;Knowledge Capture in the Age of Massive Web Data&quot;, K-CAP 2013" label="Proceedings of the 7th International Conference on Knowledge Capture: &quot;Knowledge Capture in the Age of Massive Web Data&quot;, K-CAP 2013">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Technology-Enhanced Professional Learning: Processes, Practices and Tools" label="Technology-Enhanced Professional Learning: Processes, Practices and Tools">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="Journal of Information Technology Education:Research" label="Journal of Information Technology Education:Research">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="CSEDU 2012 - Proceedings of the 4th International Conference on Computer Supported Education" label="CSEDU 2012 - Proceedings of the 4th International Conference on Computer Supported Education">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Interdisciplinary Journal of Information, Knowledge, and Management" label="Interdisciplinary Journal of Information, Knowledge, and Management">
+        <attvalues>
+          <attvalue for="0" value="Editorial" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the 2011 11th IEEE International Conference on Advanced Learning Technologies, ICALT 2011" label="Proceedings of the 2011 11th IEEE International Conference on Advanced Learning Technologies, ICALT 2011">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - 12th IEEE International Conference on Computational Science and Engineering, CSE 2009" label="Proceedings - 12th IEEE International Conference on Computational Science and Engineering, CSE 2009">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="ICSC 2009 - 2009 IEEE International Conference on Semantic Computing" label="ICSC 2009 - 2009 IEEE International Conference on Semantic Computing">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Computer Supported Collaborative Learning Practices, CSCL 2009 Community Events Proceedings - 9th International Conference" label="Computer Supported Collaborative Learning Practices, CSCL 2009 Community Events Proceedings - 9th International Conference">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - 2009 9th IEEE International Conference on Advanced Learning Technologies, ICALT 2009" label="Proceedings - 2009 9th IEEE International Conference on Advanced Learning Technologies, ICALT 2009">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Technology Enhanced Learning" label="International Journal of Technology Enhanced Learning">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - IEEE International Conference on Semantic Computing 2008, ICSC 2008" label="Proceedings - IEEE International Conference on Semantic Computing 2008, ICSC 2008">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - The 8th IEEE International Conference on Advanced Learning Technologies, ICALT 2008" label="Proceedings - The 8th IEEE International Conference on Advanced Learning Technologies, ICALT 2008">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="K-CAP'07: Proceedings of the Fourth International Conference on Knowledge Capture" label="K-CAP'07: Proceedings of the Fourth International Conference on Knowledge Capture">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - Sixth International Conference on Advanced Learning Technologies, ICALT 2006" label="Proceedings - Sixth International Conference on Advanced Learning Technologies, ICALT 2006">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - 2005 IEEE International Conference on e-Technology, e-Commerce and e-Service, EEE-05" label="Proceedings - 2005 IEEE International Conference on e-Technology, e-Commerce and e-Service, EEE-05">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="14th International World Wide Web Conference, WWW2005" label="14th International World Wide Web Conference, WWW2005">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Computers, Communications and Control" label="International Journal of Computers, Communications and Control">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="2016 6th International Conference on Computers Communications and Control, ICCCC 2016" label="2016 6th International Conference on Computers Communications and Control, ICCCC 2016">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="ASME 2016 11th International Manufacturing Science and Engineering Conference, MSEC 2016" label="ASME 2016 11th International Manufacturing Science and Engineering Conference, MSEC 2016">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Concurrent Engineering Research and Applications" label="Concurrent Engineering Research and Applications">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Cooperative Information Systems" label="International Journal of Cooperative Information Systems">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Computer Integrated Manufacturing" label="International Journal of Computer Integrated Manufacturing">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Tehnicki Vjesnik" label="Tehnicki Vjesnik">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Classical and Quantum Gravity" label="Classical and Quantum Gravity">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Ingenieria e Investigacion" label="Ingenieria e Investigacion">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Physical Review D" label="Physical Review D">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Control Engineering and Applied Informatics" label="Control Engineering and Applied Informatics">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Security and Communication Networks" label="Security and Communication Networks">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Innovative Management and Firm Performance: An Interdisciplinary Approach and Cases" label="Innovative Management and Firm Performance: An Interdisciplinary Approach and Cases">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the Romanian Academy Series A - Mathematics Physics Technical Sciences Information Science" label="Proceedings of the Romanian Academy Series A - Mathematics Physics Technical Sciences Information Science">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="E-Procurement Management for Successful Electronic Government Systems" label="E-Procurement Management for Successful Electronic Government Systems">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="Information" label="Information">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Computer Security: Intrusion, Detection and Prevention" label="Computer Security: Intrusion, Detection and Prevention">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="ARES 2010 - 5th International Conference on Availability, Reliability, and Security" label="ARES 2010 - 5th International Conference on Availability, Reliability, and Security">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the 1st International Workshop on Open Source in European Health Care: The Time is Ripe, OSEHC 2009 In Conjunction with BIOSTEC 2009 and the EFMI LIFOSS WG" label="Proceedings of the 1st International Workshop on Open Source in European Health Care: The Time is Ripe, OSEHC 2009 In Conjunction with BIOSTEC 2009 and the EFMI LIFOSS WG">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - Second International Conference on Availability, Reliability and Security, ARES 2007" label="Proceedings - Second International Conference on Availability, Reliability and Security, ARES 2007">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Journal of Computing and Information Technology" label="Journal of Computing and Information Technology">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IEEE Multimedia" label="IEEE Multimedia">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Governance, Communication, and Innovation in a Knowledge Intensive Society" label="Governance, Communication, and Innovation in a Knowledge Intensive Society">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="Computers in Human Behavior" label="Computers in Human Behavior">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Advancing Information Management through Semantic Web Concepts and Ontologies" label="Advancing Information Management through Semantic Web Concepts and Ontologies">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="Handbook of Research on Serious Games as Educational, Business and Research Tools" label="Handbook of Research on Serious Games as Educational, Business and Research Tools">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Distance Education Technologies" label="International Journal of Distance Education Technologies">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Behaviour and Information Technology" label="Behaviour and Information Technology">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IEEE Transactions on Systems, Man, and Cybernetics Part A:Systems and Humans" label="IEEE Transactions on Systems, Man, and Cybernetics Part A:Systems and Humans">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="CSSim 2009 - 1st International Conference on Computational Intelligence, Modelling, and Simulation" label="CSSim 2009 - 1st International Conference on Computational Intelligence, Modelling, and Simulation">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - 2009 2nd Conference on Human System Interactions, HSI '09" label="Proceedings - 2009 2nd Conference on Human System Interactions, HSI '09">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - Frontiers in Education Conference, FIE" label="Proceedings - Frontiers in Education Conference, FIE">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="2008 Conference on Human System Interaction, HSI 2008" label="2008 Conference on Human System Interaction, HSI 2008">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - UKSim 10th International Conference on Computer Modelling and Simulation, EUROSIM/UKSim2008" label="Proceedings - UKSim 10th International Conference on Computer Modelling and Simulation, EUROSIM/UKSim2008">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the European Conference on Games-based Learning" label="Proceedings of the European Conference on Games-based Learning">
+        <attvalues>
+          <attvalue for="0" value="Conference Review" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the International Conference on Autonomous Agents" label="Proceedings of the International Conference on Autonomous Agents">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings - 2002 IEEE International Conference on Multimedia and Expo, ICME 2002" label="Proceedings - 2002 IEEE International Conference on Multimedia and Expo, ICME 2002">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the IEEE/EMBS Region 8 International Conference on Information Technology Applications in Biomedicine, ITAB" label="Proceedings of the IEEE/EMBS Region 8 International Conference on Information Technology Applications in Biomedicine, ITAB">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Real-Time Imaging" label="Real-Time Imaging">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IEEE Engineering in Medicine and Biology Magazine" label="IEEE Engineering in Medicine and Biology Magazine">
+        <attvalues>
+          <attvalue for="0" value="Review" />
+        </attvalues>
+      </node>
+      <node id="Annual International Conference of the IEEE Engineering in Medicine and Biology - Proceedings" label="Annual International Conference of the IEEE Engineering in Medicine and Biology - Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="2018 7th International Conference on Computers Communications and Control, ICCCC 2018 - Proceedings" label="2018 7th International Conference on Computers Communications and Control, ICCCC 2018 - Proceedings">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Software Quality Journal" label="Software Quality Journal">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Computational Linguistics: Concepts, Methodologies, Tools, and Applications" label="Computational Linguistics: Concepts, Methodologies, Tools, and Applications">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="Peptides" label="Peptides">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Journal of Sports Medicine and Physical Fitness" label="Journal of Sports Medicine and Physical Fitness">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Safety Science" label="Safety Science">
+        <attvalues>
+          <attvalue for="0" value="Article in Press" />
+        </attvalues>
+      </node>
+      <node id="Open Source Solutions for Knowledge Management and Technological Ecosystems" label="Open Source Solutions for Knowledge Management and Technological Ecosystems">
+        <attvalues>
+          <attvalue for="0" value="Book Chapter" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Decision Support System Technology" label="International Journal of Decision Support System Technology">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="The Scientific World Journal" label="The Scientific World Journal">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="2012 International Symposium on Computers in Education, SIIE 2012" label="2012 International Symposium on Computers in Education, SIIE 2012">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Human Capital and Information Technology Professionals" label="International Journal of Human Capital and Information Technology Professionals">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Computational Intelligence Systems" label="International Journal of Computational Intelligence Systems">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the 10th International Symposium on Operational Research in Slovenia, SOR 2009" label="Proceedings of the 10th International Symposium on Operational Research in Slovenia, SOR 2009">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Proceedings of the XVII National Conference of Astronomers of Serbia" label="Proceedings of the XVII National Conference of Astronomers of Serbia">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="IASTED International Multi-Conference on Applied Informatics" label="IASTED International Multi-Conference on Applied Informatics">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Russian Journal of Marine Biology" label="Russian Journal of Marine Biology">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Transportation Planning and Technology" label="Transportation Planning and Technology">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Journal of Advanced Transportation" label="Journal of Advanced Transportation">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Promet - Traffic - Traffico" label="Promet - Traffic - Traffico">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Information Development" label="Information Development">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Current Science" label="Current Science">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Journal of Environmental Protection and Ecology" label="Journal of Environmental Protection and Ecology">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Profesional de la Informacion" label="Profesional de la Informacion">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Actual Problems of Economics" label="Actual Problems of Economics">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Procedia Manufacturing" label="Procedia Manufacturing">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Ophtalmologie : organe de la Societe francaise d&quot;ophtalmologie" label="Ophtalmologie : organe de la Societe francaise d&quot;ophtalmologie">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="IFAC Proceedings Series" label="IFAC Proceedings Series">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="AGROHEMIJA" label="AGROHEMIJA">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="The International Journal Of Applied Radiation And Isotopes" label="The International Journal Of Applied Radiation And Isotopes">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="International Journal on Artificial Intelligence Tools" label="International Journal on Artificial Intelligence Tools">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="ICEIS 2010 - Proceedings of the 12th International Conference on Enterprise Information Systems" label="ICEIS 2010 - Proceedings of the 12th International Conference on Enterprise Information Systems">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Computational and Mathematical Methods in Medicine" label="Computational and Mathematical Methods in Medicine">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="World Scientific Proc. Series on Computer Engineering and Information Science 7; Uncertainty Modeling in Knowledge Engineering and Decision Making - Proceedings of the 10th International FLINS Conf." label="World Scientific Proc. Series on Computer Engineering and Information Science 7; Uncertainty Modeling in Knowledge Engineering and Decision Making - Proceedings of the 10th International FLINS Conf.">
+        <attvalues>
+          <attvalue for="0" value="Conference Paper" />
+        </attvalues>
+      </node>
+      <node id="Complexity" label="Complexity">
+        <attvalues>
+          <attvalue for="0" value="Article" />
+        </attvalues>
+      </node>
+      <node id="Enterprise Information Systems" label="Enterprise Information Systems">
+        <attvalues>
+          <attvalue for="0" value="Article in Press" />
+        </attvalues>
+      </node>
     </nodes>
     <edges>
       <edge source="Mathematics in Computer Science" target="Annals of Mathematics and Artificial Intelligence" id="0" weight="1" />

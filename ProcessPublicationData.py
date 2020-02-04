@@ -1,6 +1,5 @@
 import networkx as nx
 from csvReaderMethods import CVSReaderMethods
-import matplotlib.pyplot as plt
 
 class ProcessPublicationDataMethods:
     GrapthOutputPath = r'output/publicationGraph.gexf'
@@ -17,7 +16,8 @@ class ProcessPublicationDataMethods:
     @staticmethod
     def addNodesToGraph(graph, publications):
         for key in publications:
-            graph.add_node(key)
+            publicationType = publications[key][3]
+            graph.add_node(key, publicationType = publicationType)
 
     
     @staticmethod
