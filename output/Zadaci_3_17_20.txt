@@ -1,0 +1,129 @@
+Zadatak 3
+----------------------------------------------------------------------
+Konferencije: 
+        Fon Katedra za softversko inzinjerstvo: 330 poena
+        Fon Katedra za informacione sisteme: 61 poena
+        Etf katedra za racunarsku tehniku i informatiku: 506 poena
+        Matf katedra za racunarstvo i informatiku: 109 poena
+Casopisi:
+        Fon Katedra za softversko inzinjerstvo: 289 poena
+        Fon Katedra za informacione sisteme: 97 poena
+        Etf katedra za racunarsku tehniku i informatiku: 354 poena
+        Matf katedra za racunarstvo i informatiku: 221 poena
+
+Zadatak 17
+----------------------------------------------------------------------
+Prosecan broj autora po radovima u casopisima je: 3.9193037974683542
+Prosecan broj autora po radovima na konferncijama je: 4.049450549450549
+
+Zadatak 20
+----------------------------------------------------------------------
+FON Katedra za softversko inzinjerstvo:
+2009 78 poena
+2005 25 poena
+2012 83 poena
+2011 38 poena
+2010 60 poena
+2007 39 poena
+2017 32 poena
+2015 42 poena
+2014 40 poena
+2016 27 poena
+2013 12 poena
+2008 46 poena
+2006 30 poena
+2004 34 poena
+2003 10 poena
+2002 5 poena
+2001 1 poena
+2000 4 poena
+1999 16 poena
+1998 4 poena
+1997 11 poena
+1996 9 poena
+1995 6 poena
+1994 1 poena
+1992 3 poena
+1990 4 poena
+1989 2 poena
+2018 17 poena
+1987 3 poena
+----------------------------------------------------------------------
+Najuspesnija godina za FON Katedra za softversko inzinjerstvo 2012 83 poena
+
+FON Katedra za informacione sisteme:
+2017 17 poena
+2016 7 poena
+2015 14 poena
+2006 19 poena
+2005 8 poena
+2004 12 poena
+2003 2 poena
+2002 3 poena
+2000 12 poena
+1999 13 poena
+2010 4 poena
+2012 40 poena
+2011 7 poena
+2013 6 poena
+1985 14 poena
+1983 2 poena
+----------------------------------------------------------------------
+Najuspesnija godina za FON Katedra za informacione sisteme 2012 40 poena
+
+ETF Katedra za racunarsku tehniku i informatiku:
+2014 45 poena
+2011 94 poena
+2006 16 poena
+2017 118 poena
+2018 125 poena
+2016 40 poena
+2015 79 poena
+2013 58 poena
+2012 89 poena
+2009 15 poena
+2008 5 poena
+2007 7 poena
+2005 21 poena
+2003 3 poena
+2002 23 poena
+2001 17 poena
+2000 22 poena
+1998 32 poena
+1997 8 poena
+2010 13 poena
+1999 15 poena
+1994 28 poena
+1996 19 poena
+1993 3 poena
+2004 8 poena
+1995 15 poena
+1989 5 poena
+1992 1 poena
+----------------------------------------------------------------------
+Najuspesnija godina za ETF Katedra za racunarsku tehniku i informatiku 2018 125 poena
+
+Math Katedra za racunarstvo i informatiku:
+2016 15 poena
+2015 18 poena
+2014 30 poena
+2013 31 poena
+2012 40 poena
+2011 22 poena
+2010 19 poena
+2009 27 poena
+2007 9 poena
+2006 15 poena
+2005 10 poena
+2004 11 poena
+2003 8 poena
+2002 2 poena
+2001 3 poena
+1999 2 poena
+2018 29 poena
+2017 34 poena
+2008 13 poena
+1986 1 poena
+1997 1 poena
+----------------------------------------------------------------------
+Najuspesnija godina za Math Katedra za racunarstvo i informatiku 2012 40 poena
